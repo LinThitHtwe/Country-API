@@ -1,0 +1,115 @@
+[
+  {
+    "name": "",
+    "flag": "",
+    "countryCode": "",
+    "map": "",
+    "continent": "",
+    "description": "",
+    "area": {
+      "squreKilometers": "",
+      "squreMiles": ""
+    },
+    "nationalAnimal": "",
+    "independenceDay": "",
+    "nationalDishes": [
+      {
+        "name": "",
+        "description": "",
+        "recipe": ""
+      }
+    ],
+    "wikipediaLink": "",
+    "neighbouringCountries": [""],
+    "adjacentSeas": [""],
+    "adjacentOceans": [""],
+    "placesToVisit": [
+      {
+        "name": "",
+        "description": "",
+        "city": "",
+        "region": "",
+        "geographicCoordinates": "",
+        "establishedYear": ""
+      }
+    ],
+    "capitalCity": "",
+    "officialLanguages": [""],
+    "spokenLanguages": [""],
+    "currency": {
+      "name": "",
+      "code": ""
+    },
+    "timeZone": "",
+    "nationalAnthem": {
+      "name": "",
+      "anthemLength": "",
+      "description": ""
+    },
+    "nationalFlagDescription": "",
+    "nationalEmblem": {
+      "name": "",
+      "description": "",
+      "image": ""
+    },
+    "nationalSymbol": {
+      "name": "",
+      "description": "",
+      "image": ""
+    },
+    "nationalFlower": {
+      "name": "",
+      "description": "",
+      "image": ""
+    },
+    "nationalHolidays": [
+      {
+        "name": "",
+        "date": "",
+        "description": ""
+      }
+    ],
+    "popularFestivals": [
+      {
+        "name": "",
+        "description": "",
+        "duration": ""
+      }
+    ],
+    "religions": [""],
+    "majorAirports": [
+      {
+        "name": "",
+        "city": "",
+        "region": "",
+        "geographicCoordinates": "",
+        "establishedYear": 0
+      }
+    ],
+    "majorPorts": [
+      {
+        "name": "",
+        "city": "",
+        "region": "",
+        "geographicCoordinates": "",
+        "establishedYear": 0
+      }
+    ],
+    "majorUniversities": [
+      {
+        "name": "",
+        "city": "",
+        "region": "",
+        "geographicCoordinates": "",
+        "establishedYear": 0,
+        "description": ""
+      }
+    ],
+    "nationalSports": [""],
+    "majorIndustries": [""],
+    "educationSystem": "",
+    "isLeftHandDrive": false,
+    "isRightHandDrive": true,
+    "numbersOfIsland": 0
+  }
+]

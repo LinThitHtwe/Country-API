@@ -1,0 +1,9 @@
+dist
+node_modules/
+.env
+yarn-error.log
+/build
+package-lock.json
+playground.js
+playground.ts
+/logs/

@@ -1,115 +1,762 @@
 [
   {
+    "name": "Afghanistan",
+    "fullName": "The Islamic Republic of Afghanistan",
+    "countryCode": "+93",
+    "ISOCodes": {
+      "alpha2Code": "AF",
+      "alpha3Code": "AFG"
+    },
+    "continent": ["Asia"]
+  },
+  {
+    "name": "Albania",
+    "fullName": "Republic of Albania",
+    "countryCode": "+355",
+    "ISOCodes": {
+      "alpha2Code": "AL",
+      "alpha3Code": "ALB"
+    },
+    "continent": ["Europe"]
+  },
+  {
+    "name": "Algeria",
+    "fullName": "People's Democratic Republic of Algeria",
+    "countryCode": "+213",
+    "ISOCodes": {
+      "alpha2Code": "DZ",
+      "alpha3Code": "DZA"
+    },
+    "continent": ["Africa"]
+  },
+  {
+    "name": "American Samoa",
+    "fullName": "American Samoa",
+    "countryCode": "+1-684",
+    "ISOCodes": {
+      "alpha2Code": "AS",
+      "alpha3Code": "ASM"
+    },
+    "continent": ["Oceania"]
+  },
+  {
+    "name": "Andorra",
+    "fullName": "Principality of Andorra",
+    "countryCode": "+376",
+    "ISOCodes": {
+      "alpha2Code": "AD",
+      "alpha3Code": "AND"
+    },
+    "continent": ["Europe"]
+  },
+  {
+    "name": "Angola",
+    "fullName": "The Republic of Angola",
+    "countryCode": "+244",
+    "ISOCodes": {
+      "alpha2Code": "AO",
+      "alpha3Code": "AGO"
+    },
+    "continent": ["Africa"]
+  },
+  {
+    "name": "Anguilla",
+    "fullName": "",
+    "countryCode": "+1-264",
+    "ISOCodes": {
+      "alpha2Code": "AI",
+      "alpha3Code": "AIA"
+    },
+    "continent": ["North America"]
+  },
+  {
+    "name": "Antarctica",
+    "fullName": "Antarctica",
+    "countryCode": "+672",
+    "ISOCodes": {
+      "alpha2Code": "AQ",
+      "alpha3Code": "ATA"
+    },
+    "continent": ["Antarctica"]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "fullName": "Antigua and Barbuda",
+    "countryCode": "+1-268",
+    "ISOCodes": {
+      "alpha2Code": "AG",
+      "alpha3Code": "ATG"
+    },
+    "continent": ["North America"]
+  },
+  {
+    "name": "Argentina",
+    "fullName": "The Argentine Republic",
+    "countryCode": "+54",
+    "ISOCodes": {
+      "alpha2Code": "AR",
+      "alpha3Code": "ATG"
+    },
+    "continent": ["South America"]
+  },
+  {
+    "name": "Armenia",
+    "fullName": "The Republic of Armenia",
+    "countryCode": "+374",
+    "ISOCodes": {
+      "alpha2Code": "AM",
+      "alpha3Code": "ARM"
+    },
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "name": "Aruba",
+    "fullName": "The Country of Aruba",
+    "countryCode": "+297",
+    "ISOCodes": {
+      "alpha2Code": "AW",
+      "alpha3Code": "ABW"
+    },
+    "continent": ["South America"]
+  },
+  {
+    "name": "Australia",
+    "fullName": "The Commonwealth of Australia",
+    "countryCode": "+61",
+    "ISOCodes": {
+      "alpha2Code": "AU",
+      "alpha3Code": "AUS"
+    },
+    "continent": ["Oceania", "Australia"]
+  },
+  {
+    "name": "Austria",
+    "fullName": "The Republic of Austria",
+    "countryCode": "+43",
+    "ISOCodes": {
+      "alpha2Code": "AT",
+      "alpha3Code": "AUT"
+    },
+    "continent": "Europe"
+  },
+  {
+    "name": "Azerbaijan",
+    "fullName": "The Republic of Azerbaijan",
+    "countryCode": "+994",
+    "ISOCodes": {
+      "alpha2Code": "AZ",
+      "alpha3Code": "AZE"
+    },
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "name": "Bahamas",
+    "fullName": "Commonwealth of The Bahamas",
+    "countryCode": "+1-242",
+    "ISOCodes": {
+      "alpha2Code": "BS",
+      "alpha3Code": "BHS"
+    },
+    "continent": ["North America"]
+  },
+  {
+    "name": "Bahrain",
+    "fullName": "The Kingdom of Bahrain",
+    "countryCode": "+973",
+    "ISOCodes": {
+      "alpha2Code": "BH",
+      "alpha3Code": "BHR"
+    },
+    "continent": ["Asia"]
+  },
+  {
+    "name": "Bangladesh",
+    "fullName": "The People's Republic of Bangladesh",
+    "countryCode": "+880",
+    "ISOCodes": {
+      "alpha2Code": "BD",
+      "alpha3Code": "BGD"
+    },
+    "continent": ["Asia"]
+  },
+  {
+    "name": "Barbados",
+    "fullName": "Republic of Barbados",
+    "countryCode": "+1-246",
+    "ISOCodes": {
+      "alpha2Code": "BB",
+      "alpha3Code": "BRB"
+    },
+    "continent": ["North America"]
+  },
+  {
+    "name": "Belarus",
+    "fullName": "The Republic of Belarus",
+    "countryCode": "+375",
+    "ISOCodes": {
+      "alpha2Code": "BY",
+      "alpha3Code": "BLR"
+    },
+    "continent": ["Europe"]
+  },
+  {
+    "name": "Belgium",
+    "fullName": "",
+    "countryCode": "+32",
+    "ISOCodes": {
+      "alpha2Code": "BE",
+      "alpha3Code": "BEL"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Belize",
+    "fullName": "",
+    "countryCode": "+501",
+    "ISOCodes": {
+      "alpha2Code": "BZ",
+      "alpha3Code": "BLZ"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Benin",
+    "fullName": "",
+    "countryCode": "+229",
+    "ISOCodes": {
+      "alpha2Code": "BJ",
+      "alpha3Code": "BEN"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Bermuda",
+    "fullName": "",
+    "countryCode": "+1-441",
+    "ISOCodes": {
+      "alpha2Code": "BM",
+      "alpha3Code": "BMU"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Bhutan",
+    "fullName": "",
+    "countryCode": "+975",
+    "ISOCodes": {
+      "alpha2Code": "BT",
+      "alpha3Code": "BTN"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Bolivia",
+    "fullName": "",
+    "countryCode": "+591",
+    "ISOCodes": {
+      "alpha2Code": "BO",
+      "alpha3Code": "BOL"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "fullName": "",
+    "countryCode": "+387",
+    "ISOCodes": {
+      "alpha2Code": "BA",
+      "alpha3Code": "BIH"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Botswana",
+    "fullName": "",
+    "countryCode": "+267",
+    "ISOCodes": {
+      "alpha2Code": "BW",
+      "alpha3Code": "BWA"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Brazil",
+    "fullName": "",
+    "countryCode": "+55",
+    "ISOCodes": {
+      "alpha2Code": "BR",
+      "alpha3Code": "BRA"
+    },
+    "continent": ""
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "fullName": "",
+    "countryCode": "+246",
+    "ISOCodes": {
+      "alpha2Code": "IO",
+      "alpha3Code": "IOT"
+    },
+    "continent": ""
+  },
+  {
+    "name": "British Virgin Islands",
+    "fullName": "",
+    "countryCode": "+1-284",
+    "ISOCodes": {
+      "alpha2Code": "VG",
+      "alpha3Code": "VGB"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Brunei",
+    "fullName": "",
+    "countryCode": "+673",
+    "ISOCodes": {
+      "alpha2Code": "BN",
+      "alpha3Code": "BRN"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Bulgaria",
+    "fullName": "",
+    "countryCode": "+359",
+    "ISOCodes": {
+      "alpha2Code": "BG",
+      "alpha3Code": "BGR"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Burkina Faso",
+    "fullName": "",
+    "countryCode": "+226",
+    "ISOCodes": {
+      "alpha2Code": "BF",
+      "alpha3Code": "BFA"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Burundi",
+    "fullName": "",
+    "countryCode": "+257",
+    "ISOCodes": {
+      "alpha2Code": "BI",
+      "alpha3Code": "BDI"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cambodia",
+    "fullName": "",
+    "countryCode": "+855",
+    "ISOCodes": {
+      "alpha2Code": "KH",
+      "alpha3Code": "KHM"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cameroon",
+    "fullName": "",
+    "countryCode": "+237",
+    "ISOCodes": {
+      "alpha2Code": "CM",
+      "alpha3Code": "CMR"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Canada",
+    "fullName": "",
+    "countryCode": "+1",
+    "ISOCodes": {
+      "alpha2Code": "CA",
+      "alpha3Code": "CAN"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cape Verde",
+    "fullName": "",
+    "countryCode": "+238",
+    "ISOCodes": {
+      "alpha2Code": "CV",
+      "alpha3Code": "CPV"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cayman Islands",
+    "fullName": "",
+    "countryCode": "+1-345",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "Central African Republic",
+    "fullName": "",
+    "countryCode": "+236",
+    "ISOCodes": {
+      "alpha2Code": "CF",
+      "alpha3Code": "CAF"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Chad",
+    "fullName": "",
+    "countryCode": "+235",
+    "ISOCodes": {
+      "alpha2Code": "TD",
+      "alpha3Code": "TCD"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Chile",
+    "fullName": "",
+    "countryCode": "+56",
+    "ISOCodes": {
+      "alpha2Code": "CL",
+      "alpha3Code": "CHL"
+    },
+    "continent": ""
+  },
+  {
+    "name": "China",
+    "fullName": "",
+    "countryCode": "+86",
+    "ISOCodes": {
+      "alpha2Code": "CN",
+      "alpha3Code": "CHN"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Christmas Island",
+    "fullName": "",
+    "countryCode": "+61",
+    "ISOCodes": {
+      "alpha2Code": "CX",
+      "alpha3Code": "CXR"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cocos Islands",
+    "fullName": "",
+    "countryCode": "+61",
+    "ISOCodes": {
+      "alpha2Code": "CC",
+      "alpha3Code": "CCK"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Colombia",
+    "fullName": "",
+    "countryCode": "+57",
+    "ISOCodes": {
+      "alpha2Code": "CO",
+      "alpha3Code": "COL"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Comoros",
+    "fullName": "",
+    "countryCode": "+269",
+    "ISOCodes": {
+      "alpha2Code": "KM",
+      "alpha3Code": "COM"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cook Islands",
+    "fullName": "",
+    "countryCode": "+682",
+    "ISOCodes": {
+      "alpha2Code": "CK",
+      "alpha3Code": "COK"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Costa Rica",
+    "fullName": "",
+    "countryCode": "+506",
+    "ISOCodes": {
+      "alpha2Code": "CR",
+      "alpha3Code": "CRI"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Croatia",
+    "fullName": "",
+    "countryCode": "+385",
+    "ISOCodes": {
+      "alpha2Code": "HR",
+      "alpha3Code": "HRV"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cuba",
+    "fullName": "",
+    "countryCode": "+53",
+    "ISOCodes": {
+      "alpha2Code": "CU",
+      "alpha3Code": "CUB"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Curacao",
+    "fullName": "",
+    "countryCode": "+599",
+    "ISOCodes": {
+      "alpha2Code": "CW",
+      "alpha3Code": "CUW"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Cyprus",
+    "fullName": "",
+    "countryCode": "+357",
+    "ISOCodes": {
+      "alpha2Code": "CY",
+      "alpha3Code": "CYP"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Czech Republic",
+    "fullName": "",
+    "countryCode": "+420",
+    "ISOCodes": {
+      "alpha2Code": "CZ",
+      "alpha3Code": "CZE"
+    },
+    "continent": ""
+  },
+  {
+    "name": "Congo",
+    "fullName": "Democratic Republic of the Congo",
+    "countryCode": "+243",
+    "ISOCodes": {
+      "alpha2Code": "CD",
+      "alpha3Code": "COD"
+    },
+    "continent": ""
+  },
+  {
     "name": "",
-    "flag": "",
-    "countryCode": "",
-    "map": "",
-    "continent": "",
-    "description": "",
-    "area": {
-      "squreKilometers": "",
-      "squreMiles": ""
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
     },
-    "nationalAnimal": "",
-    "independenceDay": "",
-    "nationalDishes": [
-      {
-        "name": "",
-        "description": "",
-        "recipe": ""
-      }
-    ],
-    "wikipediaLink": "",
-    "neighbouringCountries": [""],
-    "adjacentSeas": [""],
-    "adjacentOceans": [""],
-    "placesToVisit": [
-      {
-        "name": "",
-        "description": "",
-        "city": "",
-        "region": "",
-        "geographicCoordinates": "",
-        "establishedYear": ""
-      }
-    ],
-    "capitalCity": "",
-    "officialLanguages": [""],
-    "spokenLanguages": [""],
-    "currency": {
-      "name": "",
-      "code": ""
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
     },
-    "timeZone": "",
-    "nationalAnthem": {
-      "name": "",
-      "anthemLength": "",
-      "description": ""
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
     },
-    "nationalFlagDescription": "",
-    "nationalEmblem": {
-      "name": "",
-      "description": "",
-      "image": ""
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
     },
-    "nationalSymbol": {
-      "name": "",
-      "description": "",
-      "image": ""
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
     },
-    "nationalFlower": {
-      "name": "",
-      "description": "",
-      "image": ""
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
     },
-    "nationalHolidays": [
-      {
-        "name": "",
-        "date": "",
-        "description": ""
-      }
-    ],
-    "popularFestivals": [
-      {
-        "name": "",
-        "description": "",
-        "duration": ""
-      }
-    ],
-    "religions": [""],
-    "majorAirports": [
-      {
-        "name": "",
-        "city": "",
-        "region": "",
-        "geographicCoordinates": "",
-        "establishedYear": 0
-      }
-    ],
-    "majorPorts": [
-      {
-        "name": "",
-        "city": "",
-        "region": "",
-        "geographicCoordinates": "",
-        "establishedYear": 0
-      }
-    ],
-    "majorUniversities": [
-      {
-        "name": "",
-        "city": "",
-        "region": "",
-        "geographicCoordinates": "",
-        "establishedYear": 0,
-        "description": ""
-      }
-    ],
-    "nationalSports": [""],
-    "majorIndustries": [""],
-    "educationSystem": "",
-    "isLeftHandDrive": false,
-    "isRightHandDrive": true,
-    "numbersOfIsland": 0
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
+  },
+  {
+    "name": "",
+    "fullName": "",
+    "countryCode": "+",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": ""
+    },
+    "continent": ""
   }
 ]

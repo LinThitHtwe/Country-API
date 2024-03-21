@@ -1,0 +1,174 @@
+{
+  "name": "Myanmar",
+  "fullName": {
+    "name": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌",
+    "pronunciation": "Pyidăuzu Thammăda Myăma Năingandaw",
+    "englishName": "Republic of the Union of Myanmar"
+  },
+  "flag": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/255px-Flag_of_Myanmar.svg.png",
+    "ratio": "2:3",
+    "adoptedDate": "21 October 2010",
+    "design": "A horizontal triband of yellow, green and red; charged with a large white five-pointed star at the centre."
+  },
+  "demonym": "Burmese",
+  "countryCode": "+95",
+  "map": "https://www.google.com/maps/d/viewer?mid=1KknUe0qoKPJWFL-hpWMm4CYLEFg&hl=en_US&ll=19.58256753662068%2C96.90645100000002&z=6",
+  "continent": "Asia",
+  "description": "It is the largest country by area in Mainland Southeast Asia and has a population of about 55 million. It is bordered by Bangladesh and India to its northwest, China to its northeast, Laos and Thailand to its east and southeast, and the Andaman Sea and the Bay of Bengal to its south and southwest.",
+  "area": {
+    "squreKilometers": 676578,
+    "squreMiles": 261228
+  },
+  "nationalAnimal": "The green peafowl",
+  "independenceDay": "January 4, 1948",
+  "nationalDishes": [
+    {
+      "name": "Mohinga Rice noodles",
+      "description": "Mohinga. Rice noodles served in a hearty, herbal fish-and shallot-based broth, mohinga is often called Myanmar's national dish."
+    }
+  ],
+  "wikipediaLink": "https://en.wikipedia.org/wiki/Myanmar",
+  "neighbouringCountries": [
+    "China",
+    "Thailand",
+    "Laos",
+    "Bangladesh",
+    "India",
+    "Thailand"
+  ],
+  "adjacentSeas": ["Andaman Sea", "the Bay of Bengal"],
+  "adjacentOceans": [""],
+  "climate": ["tropical", " sub-tropical monsoon"],
+  "placesToVisit": [
+    {
+      "name": "",
+      "description": "",
+      "city": "",
+      "region": "",
+      "geographicCoordinates": "",
+      "establishedYear": ""
+    }
+  ],
+  "capitalCity": {
+    "name": "နေပြည်တော်",
+    "pronunciation": "[nèpjìdɔ̀]",
+    "englishName": "Naypyidaw"
+  },
+  "officialLanguages": ["Burmese"],
+  "spokenLanguages": [
+    "Shan",
+    "Karen",
+    "Kachin",
+    "Rakhine",
+    "Mon",
+    "Karenni",
+    "Chin",
+    "Kokang",
+    "English",
+    "Mandarin Chinese"
+  ],
+  "currency": {
+    "name": "ကျပ်",
+    "pronunciation": "/ˈtʃɑːt/",
+    "englishName": "Myanmar Kyat",
+    "code": "MMK"
+  },
+  "timeZone": "GMT+6:30",
+  "nationalAnthem": {
+    "name": "ကမ္ဘာမကျေ",
+    "pronunciation": "Kaba Ma Kyei(ka̰bà ma̰ tɕè)",
+    "englishName": "Till the End of the World",
+    "anthemLength": "1:33",
+    "description": "It consists of two parts; the first half is a traditional Burmese style section, before transitioning into the second half, a Western-style orchestra. Because of the second half, both the 'National Anthem' and its predecessor 'Dobama Song' are popularly known as 'Kaba Ma Kyei' (Burmese: ကမ္ဘာမကျေ; MLCTS: Ka.bha ma.",
+    "composer": ["U Sein Mya Maung", "YMB Saya Tin and Thakins"],
+    "publish": 1947
+  },
+  "nationalEmblem": {
+    "name": "",
+    "description": "",
+    "image": ""
+  },
+  "nationalSymbol": {
+    "name": "ကဒေါင်း",
+    "pronunciation": "ka-daung",
+    "englishName": "The dancing peacock",
+    "description": "The dancing peacock, ka-daung (Burmese: ကဒေါင်း) was used as the symbol of the Burmese monarch. During the period of Konbaung Dynasty, the dancing peacock on a red sun is charged on the State seal and the national flag.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WikiProject_Myanmar_peacock.svg/100px-WikiProject_Myanmar_peacock.svg.png"
+  },
+  "nationalFlower": {
+    "name": "ပိတောက်",
+    "pronunciation": "Padauk",
+    "englishName": "Padauk(Pterocarpus macrocarpus)",
+    "description": "The golden fragrant flowers of Padauk are also considered as the national flower of Myanmar. While the tree symbolizes strength, the flower represents youth, love and romance with its fragrant scent.",
+    "image": "https://myanmar.gov.mm/documents/20143/0/Padauk-Flower-Photo+%282%29.jpg/402cddc1-19db-ddeb-d144-9f86f01b3adb?t=1524825163599"
+  },
+  "nationalHolidays": [
+    {
+      "name": "",
+      "date": "",
+      "description": ""
+    }
+  ],
+  "popularFestivals": [
+    {
+      "name": "",
+      "description": "",
+      "duration": ""
+    }
+  ],
+  "religions": [""],
+  "majorAirports": [
+    {
+      "name": "Yangon Airport",
+      "city": "Yangon",
+      "region": "",
+      "geographicCoordinates": "",
+      "establishedYear": 0
+    }
+  ],
+  "majorPorts": [
+    {
+      "name": "",
+      "city": "",
+      "region": "",
+      "geographicCoordinates": "",
+      "establishedYear": 0
+    }
+  ],
+  "majorUniversities": [
+    {
+      "name": "Yangon University",
+      "city": "",
+      "region": "",
+      "geographicCoordinates": "",
+      "establishedYear": 0,
+      "description": ""
+    },
+    {
+      "name": "Mandalay University",
+      "city": "",
+      "region": "",
+      "geographicCoordinates": "",
+      "establishedYear": 0,
+      "description": ""
+    }
+  ],
+  "nationalSports": ["Chinlone", "Football"],
+  "majorIndustries": [
+    "Agriculture",
+    "Light Industry",
+    "Energy",
+    "Infrastructure",
+    "Wood and woord products",
+    "Oil and gas",
+    "Manufacturing",
+    "Tourism",
+    "Garments",
+    "Mining"
+  ],
+  "educationSystem": "The entry age for the formal school system is 5. The Basic Education system is 5-4-2-system consisting of five-year schooling (grade 1 to 5) for primary level, four-year schooling (grade 6 to 9) for lower secondary level and two-year schooling (grade 10 to 11) for upper secondary level.",
+  "isLeftHandDrive": true,
+  "isRightHandDrive": false,
+  "numbersOfIsland": 102
+}

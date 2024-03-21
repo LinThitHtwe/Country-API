@@ -1,20 +1,21 @@
 export interface Country {
   name: string;
+  fullName: string;
+  demonym: string;
   flag: string;
   countryCode: string;
   map: string;
   continent: string;
   description: string;
   area: {
-    squreKilometers: string;
-    squreMiles: string;
+    squreKilometers: number;
+    squreMiles: number;
   };
   nationalAnimal: string | null;
   independenceDay: string | null;
   nationalDishes: {
     name: string;
     description: string;
-    recipe: string;
   }[];
   wikipediaLink: string;
   neighbouringCountries: string[] | null;

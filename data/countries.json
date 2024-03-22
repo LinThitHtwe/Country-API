@@ -7,6 +7,10 @@
       "alpha2Code": "AF",
       "alpha3Code": "AFG"
     },
+    "currency": {
+      "name": "Afghan Afghani",
+      "ISOCode": "AFN"
+    },
     "continent": ["Asia"]
   },
   {
@@ -16,6 +20,10 @@
     "ISOCodes": {
       "alpha2Code": "AL",
       "alpha3Code": "ALB"
+    },
+    "currency": {
+      "name": "Albanian Lek",
+      "ISOCode": "ALL"
     },
     "continent": ["Europe"]
   },
@@ -27,6 +35,10 @@
       "alpha2Code": "DZ",
       "alpha3Code": "DZA"
     },
+    "currency": {
+      "name": "Algerian Dinar",
+      "ISOCode": "DZD"
+    },
     "continent": ["Africa"]
   },
   {
@@ -36,6 +48,10 @@
     "ISOCodes": {
       "alpha2Code": "AS",
       "alpha3Code": "ASM"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
     },
     "continent": ["Oceania"]
   },
@@ -47,6 +63,10 @@
       "alpha2Code": "AD",
       "alpha3Code": "AND"
     },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
     "continent": ["Europe"]
   },
   {
@@ -56,6 +76,10 @@
     "ISOCodes": {
       "alpha2Code": "AO",
       "alpha3Code": "AGO"
+    },
+    "currency": {
+      "name": "Angolan Kwanza",
+      "ISOCode": "AOA"
     },
     "continent": ["Africa"]
   },
@@ -67,6 +91,10 @@
       "alpha2Code": "AI",
       "alpha3Code": "AIA"
     },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
+    },
     "continent": ["North America"]
   },
   {
@@ -76,6 +104,10 @@
     "ISOCodes": {
       "alpha2Code": "AQ",
       "alpha3Code": "ATA"
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
     },
     "continent": ["Antarctica"]
   },
@@ -87,6 +119,10 @@
       "alpha2Code": "AG",
       "alpha3Code": "ATG"
     },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
+    },
     "continent": ["North America"]
   },
   {
@@ -96,6 +132,10 @@
     "ISOCodes": {
       "alpha2Code": "AR",
       "alpha3Code": "ATG"
+    },
+    "currency": {
+      "name": "Argentine Peso",
+      "ISOCode": "ARS"
     },
     "continent": ["South America"]
   },
@@ -107,6 +147,10 @@
       "alpha2Code": "AM",
       "alpha3Code": "ARM"
     },
+    "currency": {
+      "name": "Armenian Dram",
+      "ISOCode": "AMD"
+    },
     "continent": ["Asia", "Europe"]
   },
   {
@@ -116,6 +160,10 @@
     "ISOCodes": {
       "alpha2Code": "AW",
       "alpha3Code": "ABW"
+    },
+    "currency": {
+      "name": "Aruban Florin",
+      "ISOCode": "AWG"
     },
     "continent": ["South America"]
   },
@@ -127,6 +175,10 @@
       "alpha2Code": "AU",
       "alpha3Code": "AUS"
     },
+    "currency": {
+      "name": "Australian dollar",
+      "ISOCode": "AUD"
+    },
     "continent": ["Oceania", "Australia"]
   },
   {
@@ -136,6 +188,10 @@
     "ISOCodes": {
       "alpha2Code": "AT",
       "alpha3Code": "AUT"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
     "continent": "Europe"
   },
@@ -147,6 +203,10 @@
       "alpha2Code": "AZ",
       "alpha3Code": "AZE"
     },
+    "currency": {
+      "name": "Azerbaijani Manat",
+      "ISOCode": "AZN"
+    },
     "continent": ["Asia", "Europe"]
   },
   {
@@ -156,6 +216,10 @@
     "ISOCodes": {
       "alpha2Code": "BS",
       "alpha3Code": "BHS"
+    },
+    "currency": {
+      "name": "Bahamian Dollar",
+      "ISOCode": "BSD"
     },
     "continent": ["North America"]
   },
@@ -167,6 +231,10 @@
       "alpha2Code": "BH",
       "alpha3Code": "BHR"
     },
+    "currency": {
+      "name": "Bahraini Dinar",
+      "ISOCode": "BHD"
+    },
     "continent": ["Asia"]
   },
   {
@@ -176,6 +244,10 @@
     "ISOCodes": {
       "alpha2Code": "BD",
       "alpha3Code": "BGD"
+    },
+    "currency": {
+      "name": "Bangladeshi Taka",
+      "ISOCode": "BDT"
     },
     "continent": ["Asia"]
   },
@@ -187,6 +259,10 @@
       "alpha2Code": "BB",
       "alpha3Code": "BRB"
     },
+    "currency": {
+      "name": "Barbados Dollar",
+      "ISOCode": "BBD"
+    },
     "continent": ["North America"]
   },
   {
@@ -197,367 +273,571 @@
       "alpha2Code": "BY",
       "alpha3Code": "BLR"
     },
+    "currency": {
+      "name": "Belarusian ruble",
+      "ISOCode": "BYN"
+    },
     "continent": ["Europe"]
   },
   {
     "name": "Belgium",
-    "fullName": "",
+    "fullName": "The Kingdom of Belgium",
     "countryCode": "+32",
     "ISOCodes": {
       "alpha2Code": "BE",
       "alpha3Code": "BEL"
     },
-    "continent": ""
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "continent": ["Europe"]
   },
   {
     "name": "Belize",
-    "fullName": "",
+    "fullName": "Belize",
     "countryCode": "+501",
     "ISOCodes": {
       "alpha2Code": "BZ",
       "alpha3Code": "BLZ"
     },
-    "continent": ""
+    "currency": {
+      "name": "Belize Dollar",
+      "ISOCode": "BZD"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Benin",
-    "fullName": "",
+    "fullName": "The Republic of Benin",
     "countryCode": "+229",
     "ISOCodes": {
       "alpha2Code": "BJ",
       "alpha3Code": "BEN"
     },
-    "continent": ""
+    "currency": {
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Bermuda",
-    "fullName": "",
+    "fullName": "Bermuda",
     "countryCode": "+1-441",
     "ISOCodes": {
       "alpha2Code": "BM",
       "alpha3Code": "BMU"
     },
-    "continent": ""
+    "currency": {
+      "name": "Bermuda Dollar",
+      "ISOCode": "BMD"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Bhutan",
-    "fullName": "",
+    "fullName": "The Kingdom of Bhutan",
     "countryCode": "+975",
     "ISOCodes": {
       "alpha2Code": "BT",
       "alpha3Code": "BTN"
     },
-    "continent": ""
+    "currency": {
+      "name": "Bhutanese Ngultrum",
+      "ISOCode": "TM"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "Bolivia",
-    "fullName": "",
+    "fullName": "The Plurinational State of Bolivia",
     "countryCode": "+591",
     "ISOCodes": {
       "alpha2Code": "BO",
       "alpha3Code": "BOL"
     },
-    "continent": ""
+    "currency": {
+      "name": "Bolivian boliviano",
+      "ISOCode": "BOB"
+    },
+    "continent": ["South America"]
   },
   {
     "name": "Bosnia and Herzegovina",
-    "fullName": "",
+    "fullName": "The Republic of Bosnia and Herzegovina",
     "countryCode": "+387",
     "ISOCodes": {
       "alpha2Code": "BA",
       "alpha3Code": "BIH"
     },
-    "continent": ""
+    "currency": {
+      "name": "Bosnia-Herzegovina Convertible Marka",
+      "ISOCode": "BAM"
+    },
+    "continent": ["Europe"]
   },
   {
     "name": "Botswana",
-    "fullName": "",
+    "fullName": "Republic of Botswana",
     "countryCode": "+267",
     "ISOCodes": {
       "alpha2Code": "BW",
       "alpha3Code": "BWA"
     },
-    "continent": ""
+    "currency": {
+      "name": "Botswana Pula",
+      "ISOCode": "BWP"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Brazil",
-    "fullName": "",
+    "fullName": "Federative Republic of Brazil",
     "countryCode": "+55",
     "ISOCodes": {
       "alpha2Code": "BR",
       "alpha3Code": "BRA"
     },
-    "continent": ""
+    "currency": {
+      "name": "Brazilian Real",
+      "ISOCode": "BRL"
+    },
+    "continent": ["South America"]
   },
   {
     "name": "British Indian Ocean Territory",
-    "fullName": "",
+    "fullName": "British Indian Ocean Territory",
     "countryCode": "+246",
     "ISOCodes": {
       "alpha2Code": "IO",
       "alpha3Code": "IOT"
     },
-    "continent": ""
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "British Virgin Islands",
-    "fullName": "",
+    "fullName": "British Virgin Islands",
     "countryCode": "+1-284",
     "ISOCodes": {
       "alpha2Code": "VG",
       "alpha3Code": "VGB"
     },
-    "continent": ""
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Brunei",
-    "fullName": "",
+    "fullName": "Brunei Darussalam",
     "countryCode": "+673",
     "ISOCodes": {
       "alpha2Code": "BN",
       "alpha3Code": "BRN"
     },
-    "continent": ""
+    "currency": {
+      "name": "Brunei Dollar",
+      "ISOCode": "BND"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "Bulgaria",
-    "fullName": "",
+    "fullName": "The Republic of Bulgaria",
     "countryCode": "+359",
     "ISOCodes": {
       "alpha2Code": "BG",
       "alpha3Code": "BGR"
     },
-    "continent": ""
+    "currency": {
+      "name": "Bulgarian Lev",
+      "ISOCode": "BGN"
+    },
+    "continent": ["Europe"]
   },
   {
     "name": "Burkina Faso",
-    "fullName": "",
+    "fullName": "People's Republic of Burkina Faso",
     "countryCode": "+226",
     "ISOCodes": {
       "alpha2Code": "BF",
       "alpha3Code": "BFA"
     },
-    "continent": ""
+    "currency": {
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Burundi",
-    "fullName": "",
+    "fullName": "Republic of Burundi",
     "countryCode": "+257",
     "ISOCodes": {
       "alpha2Code": "BI",
       "alpha3Code": "BDI"
     },
-    "continent": ""
+    "currency": {
+      "name": "Burundian Franc",
+      "ISOCode": "BIF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Cambodia",
-    "fullName": "",
+    "fullName": "The Kingdom of Cambodia",
     "countryCode": "+855",
     "ISOCodes": {
       "alpha2Code": "KH",
       "alpha3Code": "KHM"
     },
-    "continent": ""
+    "currency": {
+      "name": "Cambodian riel",
+      "ISOCode": "KHR"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "Cameroon",
-    "fullName": "",
+    "fullName": "The Republic of Cameroon",
     "countryCode": "+237",
     "ISOCodes": {
       "alpha2Code": "CM",
       "alpha3Code": "CMR"
     },
-    "continent": ""
+    "currency": {
+      "name": "Central African CFA franc",
+      "ISOCode": "XAF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Canada",
-    "fullName": "",
+    "fullName": "Canada",
     "countryCode": "+1",
     "ISOCodes": {
       "alpha2Code": "CA",
       "alpha3Code": "CAN"
     },
-    "continent": ""
+    "currency": {
+      "name": "Canadian Dollar",
+      "ISOCode": "CAD"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Cape Verde",
-    "fullName": "",
+    "fullName": "The Republic of Cabo Verde",
     "countryCode": "+238",
     "ISOCodes": {
       "alpha2Code": "CV",
       "alpha3Code": "CPV"
     },
-    "continent": ""
+    "currency": {
+      "name": "Cape Verdean Escudo",
+      "ISOCode": "CVE"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Cayman Islands",
-    "fullName": "",
+    "fullName": "The Cayman Islands",
     "countryCode": "+1-345",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
+      "alpha2Code": "KY",
+      "alpha3Code": "CYM"
+    },
+    "currency": {
+      "name": "Cayman Islands Dollar",
+      "ISOCode": "KYD"
     },
     "continent": ""
   },
   {
     "name": "Central African Republic",
-    "fullName": "",
+    "fullName": "The Central African Republic",
     "countryCode": "+236",
     "ISOCodes": {
       "alpha2Code": "CF",
       "alpha3Code": "CAF"
     },
-    "continent": ""
+    "currency": {
+      "name": "Central African CFA franc",
+      "ISOCode": "XAF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Chad",
-    "fullName": "",
+    "fullName": "The Republic of Chad",
     "countryCode": "+235",
     "ISOCodes": {
       "alpha2Code": "TD",
       "alpha3Code": "TCD"
     },
-    "continent": ""
+    "currency": {
+      "name": "Central African CFA franc",
+      "ISOCode": "XAF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Chile",
-    "fullName": "",
+    "fullName": "The Republic of Chile",
     "countryCode": "+56",
     "ISOCodes": {
       "alpha2Code": "CL",
       "alpha3Code": "CHL"
     },
-    "continent": ""
+    "currency": {
+      "name": "Chilean Peso",
+      "ISOCode": "CLP"
+    },
+    "continent": ["South America"]
   },
   {
     "name": "China",
-    "fullName": "",
+    "fullName": "People's Republic of China",
     "countryCode": "+86",
     "ISOCodes": {
       "alpha2Code": "CN",
       "alpha3Code": "CHN"
     },
-    "continent": ""
+    "currency": {
+      "name": "Yuan",
+      "ISOCode": "CNY"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "Christmas Island",
-    "fullName": "",
+    "fullName": "The Territory of Christmas Island",
     "countryCode": "+61",
     "ISOCodes": {
       "alpha2Code": "CX",
       "alpha3Code": "CXR"
     },
-    "continent": ""
+    "currency": {
+      "name": " Australian Dollar",
+      "ISOCode": "AUD"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "Cocos Islands",
-    "fullName": "",
+    "fullName": "Cocos Islands",
     "countryCode": "+61",
     "ISOCodes": {
       "alpha2Code": "CC",
       "alpha3Code": "CCK"
     },
-    "continent": ""
+    "currency": {
+      "name": "Australian dollar",
+      "ISOCode": "AUD"
+    },
+    "continent": ["Asia"]
   },
   {
     "name": "Colombia",
-    "fullName": "",
+    "fullName": "Republic of Colombia",
     "countryCode": "+57",
     "ISOCodes": {
       "alpha2Code": "CO",
       "alpha3Code": "COL"
     },
-    "continent": ""
+    "currency": {
+      "name": "Colombian Peso",
+      "ISOCode": "COP"
+    },
+    "continent": ["South America"]
   },
   {
     "name": "Comoros",
-    "fullName": "",
+    "fullName": "The Union of the Comoros",
     "countryCode": "+269",
     "ISOCodes": {
       "alpha2Code": "KM",
       "alpha3Code": "COM"
     },
-    "continent": ""
+    "currency": {
+      "name": "Comorian Franc",
+      "ISOCode": "KMF"
+    },
+    "continent": ["Africa"]
   },
   {
     "name": "Cook Islands",
-    "fullName": "",
+    "fullName": "Cook Islands",
     "countryCode": "+682",
     "ISOCodes": {
       "alpha2Code": "CK",
       "alpha3Code": "COK"
     },
-    "continent": ""
+    "currency": {
+      "name": "New Zealand dollar",
+      "ISOCode": "NZD"
+    },
+    "continent": ["Oceania"]
   },
   {
     "name": "Costa Rica",
-    "fullName": "",
+    "fullName": "The Republic of Costa Rica",
     "countryCode": "+506",
     "ISOCodes": {
       "alpha2Code": "CR",
       "alpha3Code": "CRI"
     },
-    "continent": ""
+    "currency": {
+      "name": "Costa Rican Colón",
+      "ISOCode": "CRC"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Croatia",
-    "fullName": "",
+    "fullName": "The Republic of Croatia",
     "countryCode": "+385",
     "ISOCodes": {
       "alpha2Code": "HR",
       "alpha3Code": "HRV"
     },
-    "continent": ""
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "continent": ["Europe"]
   },
   {
     "name": "Cuba",
-    "fullName": "",
+    "fullName": "Republic of Cuba",
     "countryCode": "+53",
     "ISOCodes": {
       "alpha2Code": "CU",
       "alpha3Code": "CUB"
     },
-    "continent": ""
+    "currency": {
+      "name": "Cuban Peso",
+      "ISOCode": "CUP"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Curacao",
-    "fullName": "",
+    "fullName": "The Country of Curaçao",
     "countryCode": "+599",
     "ISOCodes": {
       "alpha2Code": "CW",
       "alpha3Code": "CUW"
     },
-    "continent": ""
+    "currency": {
+      "name": "Netherlands Antillean Guilder",
+      "ISOCode": "ANG"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "Cyprus",
-    "fullName": "",
+    "fullName": "The Republic of Cyprus",
     "countryCode": "+357",
     "ISOCodes": {
       "alpha2Code": "CY",
       "alpha3Code": "CYP"
     },
-    "continent": ""
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "continent": ["Europe"]
   },
   {
     "name": "Czech Republic",
-    "fullName": "",
+    "fullName": "Czech Republic",
     "countryCode": "+420",
     "ISOCodes": {
       "alpha2Code": "CZ",
       "alpha3Code": "CZE"
     },
-    "continent": ""
+    "currency": {
+      "name": "Czech Koruna",
+      "ISOCode": "CZK"
+    },
+    "continent": ["Europe"]
   },
   {
-    "name": "Congo",
+    "name": "Democratic Congo",
     "fullName": "Democratic Republic of the Congo",
     "countryCode": "+243",
     "ISOCodes": {
       "alpha2Code": "CD",
       "alpha3Code": "COD"
     },
-    "continent": ""
+    "currency": {
+      "name": "Congolese Franc",
+      "ISOCode": "CDF"
+    },
+    "continent": ["Africa"]
+  },
+  {
+    "name": "Denmark",
+    "fullName": "The Kingdom of Denmark",
+    "countryCode": "+45",
+    "ISOCodes": {
+      "alpha2Code": "DK",
+      "alpha3Code": "DNK"
+    },
+    "currency": {
+      "name": "Danish Krone",
+      "ISOCode": "DKK"
+    },
+    "continent": ["Europe"]
+  },
+  {
+    "name": "Djibouti",
+    "fullName": "The Republic of Djibouti",
+    "countryCode": "+253",
+    "ISOCodes": {
+      "alpha2Code": "DJ",
+      "alpha3Code": "DJI"
+    },
+    "currency": {
+      "name": "Djibouti Franc",
+      "ISOCode": "DJF"
+    },
+    "continent": ["Africa"]
+  },
+  {
+    "name": "Dominica",
+    "fullName": "Commonwealth of Dominica",
+    "countryCode": "+1-767",
+    "ISOCodes": {
+      "alpha2Code": "DM",
+      "alpha3Code": "DMA"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
+    },
+    "continent": ["North America"]
+  },
+  {
+    "name": "Dominican Republic",
+    "fullName": "Dominican Republic",
+    "countryCode": "+1-809,+1-829,+1-849",
+    "ISOCodes": {
+      "alpha2Code": "DO",
+      "alpha3Code": "DOM"
+    },
+    "currency": {
+      "name": "Dominican Peso",
+      "ISOCode": "DOP"
+    },
+    "continent": ["North America"]
   },
   {
     "name": "",
@@ -566,6 +846,10 @@
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
     },
     "continent": ""
   },
@@ -577,185 +861,9 @@
       "alpha2Code": "",
       "alpha3Code": ""
     },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
-    },
-    "continent": ""
-  },
-  {
-    "name": "",
-    "fullName": "",
-    "countryCode": "+",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": ""
+    "currency": {
+      "name": "",
+      "ISOCode": ""
     },
     "continent": ""
   }

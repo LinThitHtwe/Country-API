@@ -28,11 +28,57 @@ const getCountriesByContinent = (req: Request, res: Response) => {
   res.json(countriesByContinent);
 };
 
+const getCountriesBySovereignty = (req: Request, res: Response) => {
+  let sovereignty = req.params.sovereignty.toLowerCase();
+  switch (sovereignty) {
+    case "un":
+      sovereignty = "un member";
+      break;
+    default:
+  }
+  const countriesBySovereignty = countries.filter(
+    (country: Country) => country.sovereignty.toLowerCase() === sovereignty
+  );
+  return res.json(countriesBySovereignty);
+};
+
+const getCountryByISONumericCode = (req: Request, res: Response) => {
+  const ISONumericCode = req.params.ISONumericCode;
+  const countryByISONumericCode = countries.find(
+    (country: Country) => country.ISOCodes.numeric === ISONumericCode
+  );
+  return res.json(countryByISONumericCode);
+};
+
+const getCountriesByISOCode = (req: Request, res: Response) => {
+  const ISOCode = req.params.ISOCode.toUpperCase();
+  let countriesByISOCode;
+  if (ISOCode.length == 2) {
+    countriesByISOCode = countries.find(
+      (country: Country) =>
+        country.ISOCodes.alpha2Code.toUpperCase() === ISOCode
+    );
+  }
+  if (ISOCode.length == 3) {
+    countriesByISOCode = countries.find(
+      (country: Country) => country.ISOCodes.alpha3Code === ISOCode
+    );
+  }
+  return res.json(countriesByISOCode);
+};
+
+const getCountriesByCurrencyCode = (req: Request, res: Response) => {
+  const currencyCode = req.params.currencyCode.toUpperCase();
+  const countriesByCurrencyCode = countries.filter(
+    (country: Country) => country.currency.ISOCode === currencyCode
+  );
+  return res.json(countriesByCurrencyCode);
+};
+
 const getCountryDetail = async (req: Request, res: Response) => {
   try {
     const countryName = req.params.countryName;
     const countryDetail = await import(`../data/countries/${countryName}`);
-    console.log("Imported country detail:", countryDetail);
     if (countryDetail) {
       return res.json(countryDetail.default);
     }
@@ -46,6 +92,10 @@ const getCountryDetail = async (req: Request, res: Response) => {
 
 export default {
   getAllCountries,
+  getCountriesBySovereignty,
   getCountriesByContinent,
+  getCountryByISONumericCode,
+  getCountriesByISOCode,
+  getCountriesByCurrencyCode,
   getCountryDetail,
 };

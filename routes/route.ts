@@ -6,6 +6,19 @@ router.get(
   "/continent/:continentName",
   countryController.getCountriesByContinent
 );
+router.get(
+  "/sovereignty/:sovereignty",
+  countryController.getCountriesBySovereignty
+);
+router.get(
+  "/isocode/numeric/:ISONumericCode",
+  countryController.getCountryByISONumericCode
+);
+router.get("/isocode/:ISOCode", countryController.getCountriesByISOCode);
+router.get(
+  "/currency/:currencyCode",
+  countryController.getCountriesByCurrencyCode
+);
 router.get("/country/:countryName", countryController.getCountryDetail);
 
 export default router;

@@ -1205,6 +1205,550 @@
     "topLevelDomain": ".et"
   },
   {
+    "name": "Falkland Islands",
+    "officialName": "The Falkland Islands",
+    "countryCode": "+500",
+    "ISOCodes": {
+      "alpha2Code": "FL",
+      "alpha3Code": "FLK",
+      "numeric": "238"
+    },
+    "currency": {
+      "name": "Falkland Islands (Malvinas)Pound",
+      "ISOCode": "FKP"
+    },
+    "sovereignty": "United Kingdom",
+    "continent": ["South America"],
+    "topLevelDomain": ".fk"
+  },
+  {
+    "name": "Faroe Islands",
+    "officialName": "The Faroe Islands",
+    "countryCode": "+298",
+    "ISOCodes": {
+      "alpha2Code": "FRO",
+      "numeric": "234"
+    },
+    "currency": {
+      "name": "Denmark Krone",
+      "ISOCode": "DKK"
+    },
+    "sovereignty": "Denmark",
+    "continent": ["Europe"],
+    "topLevelDomain": ".fo"
+  },
+  {
+    "name": "Fiji",
+    "officialName": "The Republic of Fiji",
+    "countryCode": "+679",
+    "ISOCodes": {
+      "alpha2Code": "FJ",
+      "alpha3Code": "FJI",
+      "numeric": "242"
+    },
+    "currency": {
+      "name": "Fiji Dollar ",
+      "ISOCode": "FJD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".fj"
+  },
+  {
+    "name": "Findland",
+    "officialName": "The Republic of Finland",
+    "countryCode": "+358",
+    "ISOCodes": {
+      "alpha2Code": "FI",
+      "alpha3Code": "FIN",
+      "numeric": "246"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".fi"
+  },
+  {
+    "name": "France",
+    "officialName": "The French Republic",
+    "countryCode": "+33",
+    "ISOCodes": {
+      "alpha2Code": "FR",
+      "alpha3Code": "FRA",
+      "numeric": "250"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".fr"
+  },
+  {
+    "name": "French Guiana",
+    "officialName": "Guyane",
+    "countryCode": "+594",
+    "ISOCodes": {
+      "alpha2Code": "GF",
+      "alpha3Code": "GUF",
+      "numeric": "254"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "France",
+    "continent": ["South America"],
+    "topLevelDomain": ".gf"
+  },
+  {
+    "name": "French Polynesia",
+    "officialName": "French Polynesia",
+    "countryCode": "+689",
+    "ISOCodes": {
+      "alpha2Code": "PF",
+      "alpha3Code": "PYF",
+      "numeric": "258"
+    },
+    "currency": {
+      "name": "CFP Franc",
+      "ISOCode": "XPF"
+    },
+    "sovereignty": "France",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".pf"
+  },
+  {
+    "name": "French Southern Territories",
+    "officialName": "The French Southern and Antarctic Lands",
+    "countryCode": "+262",
+    "ISOCodes": {
+      "alpha2Code": "TF",
+      "alpha3Code": "ATF",
+      "numeric": "260"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "France",
+    "continent": ["Antarctica"],
+    "topLevelDomain": ".tf"
+  },
+  {
+    "name": "Gabon",
+    "officialName": "The Gabonese Republic",
+    "countryCode": "+241",
+    "ISOCodes": {
+      "alpha2Code": "GA",
+      "alpha3Code": "GAB",
+      "numeric": "266"
+    },
+    "currency": {
+      "name": "Central African CFA franc",
+      "ISOCode": "XAF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ga"
+  },
+  {
+    "name": "Gambia",
+    "officialName": "The Republic of The Gambia",
+    "countryCode": "+220",
+    "ISOCodes": {
+      "alpha2Code": "GM",
+      "alpha3Code": "GMB",
+      "numeric": "270"
+    },
+    "currency": {
+      "name": "Gambian Dalasi",
+      "ISOCode": "CMD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".gm"
+  },
+  {
+    "name": "Georgia",
+    "officialName": "Georgia",
+    "countryCode": "+995",
+    "ISOCodes": {
+      "alpha2Code": "GE",
+      "alpha3Code": "GEO",
+      "numeric": "268"
+    },
+    "currency": {
+      "name": "Georgian Lari",
+      "ISOCode": "GEL"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia", "Europe"],
+    "topLevelDomain": ".ge"
+  },
+  {
+    "name": "Germany",
+    "officialName": "The Federal Republic of Germany",
+    "countryCode": "+49",
+    "ISOCodes": {
+      "alpha2Code": "DE",
+      "alpha3Code": "DEU",
+      "numeric": "276"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".de"
+  },
+  {
+    "name": "Ghana",
+    "officialName": "The Republic of Ghana",
+    "countryCode": "+233",
+    "ISOCodes": {
+      "alpha2Code": "GH",
+      "alpha3Code": "GHA",
+      "numeric": "288"
+    },
+    "currency": {
+      "name": "Ghanaian Cedi",
+      "ISOCode": "GHS"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".gh"
+  },
+  {
+    "name": "Gibraltar",
+    "officialName": "Gibraltar",
+    "countryCode": "+350",
+    "ISOCodes": {
+      "alpha2Code": "GI",
+      "alpha3Code": "GIB",
+      "numeric": "292"
+    },
+    "currency": {
+      "name": "Gibraltar Pound",
+      "ISOCode": "GIP"
+    },
+    "sovereignty": "United Kingdom",
+    "continent": ["Europe"],
+    "topLevelDomain": ".gi"
+  },
+  {
+    "name": "Greece",
+    "officialName": "The Hellenic Republic",
+    "countryCode": "+30",
+    "ISOCodes": {
+      "alpha2Code": "GR",
+      "alpha3Code": "GRC",
+      "numeric": "300"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".gr"
+  },
+  {
+    "name": "Greenland",
+    "officialName": "Kalaallit Nunaat",
+    "countryCode": "+299",
+    "ISOCodes": {
+      "alpha2Code": "GL",
+      "alpha3Code": "GRL",
+      "numeric": "304"
+    },
+    "currency": {
+      "name": "Denmark Krone",
+      "ISOCode": "DKK"
+    },
+    "sovereignty": "Denmark",
+    "continent": ["North America"],
+    "topLevelDomain": ".gl"
+  },
+  {
+    "name": "Grenada",
+    "officialName": "Grenada",
+    "countryCode": "+1-473",
+    "ISOCodes": {
+      "alpha2Code": "GD",
+      "alpha3Code": "GRD",
+      "numeric": "308"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".gd"
+  },
+  {
+    "name": "Guadeloupe",
+    "officialName": "Guadeloupe",
+    "countryCode": "+590",
+    "ISOCodes": {
+      "alpha2Code": "GP",
+      "alpha3Code": "GLP",
+      "numeric": "312"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "France",
+    "continent": ["North America"],
+    "topLevelDomain": ".gp"
+  },
+  {
+    "name": "Guam",
+    "officialName": "The Territory of Guam",
+    "countryCode": "+1-671",
+    "ISOCodes": {
+      "alpha2Code": "GU",
+      "alpha3Code": "GUM",
+      "numeric": "316"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "United States",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".gu"
+  },
+  {
+    "name": "Guatemala",
+    "officialName": "The Republic of Guatemala",
+    "countryCode": "+502",
+    "ISOCodes": {
+      "alpha2Code": "CT",
+      "alpha3Code": "CTM",
+      "numeric": "320"
+    },
+    "currency": {
+      "name": "Guatemala Quetzal",
+      "ISOCode": "GTQ"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".gt"
+  },
+  {
+    "name": "Guernsey",
+    "officialName": "The Bailiwick of Guernsey",
+    "countryCode": "+44-1481",
+    "ISOCodes": {
+      "alpha2Code": "GG",
+      "alpha3Code": "GGY",
+      "numeric": "831"
+    },
+    "currency": {
+      "name": "United Kingdom Pound",
+      "ISOCode": "GBP"
+    },
+    "sovereignty": "British Crown",
+    "continent": ["Europe"],
+    "topLevelDomain": ".gg"
+  },
+  {
+    "name": "Guinea",
+    "officialName": "The Republic of Guinea",
+    "countryCode": "+224",
+    "ISOCodes": {
+      "alpha2Code": "GN",
+      "alpha3Code": "GIN",
+      "numeric": "324"
+    },
+    "currency": {
+      "name": "Guinean Franc",
+      "ISOCode": "GNF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".gn"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "officialName": "The Republic of Guinea-Bissau",
+    "countryCode": "+245",
+    "ISOCodes": {
+      "alpha2Code": "GW",
+      "alpha3Code": "GNB",
+      "numeric": "624"
+    },
+    "currency": {
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".gw"
+  },
+  {
+    "name": "Guyana",
+    "officialName": "The Co-operative Republic of Guyana",
+    "countryCode": "+592",
+    "ISOCodes": {
+      "alpha2Code": "GY",
+      "alpha3Code": "GUY",
+      "numeric": "328"
+    },
+    "currency": {
+      "name": "Guyana Dollar ",
+      "ISOCode": "GYD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".gy"
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
     "name": "",
     "officialName": "",
     "countryCode": "",

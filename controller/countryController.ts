@@ -42,6 +42,14 @@ const getCountriesBySovereignty = (req: Request, res: Response) => {
   return res.json(countriesBySovereignty);
 };
 
+const getCountryByCountryCode = (req: Request, res: Response) => {
+  const countryCode = req.params.countryCode.toUpperCase();
+  const countryByCountryCode = countries.find(
+    (country: Country) => country.countryCode === countryCode
+  );
+  return res.json(countryByCountryCode);
+};
+
 const getCountryByISONumericCode = (req: Request, res: Response) => {
   const ISONumericCode = req.params.ISONumericCode;
   const countryByISONumericCode = countries.find(
@@ -98,4 +106,5 @@ export default {
   getCountriesByISOCode,
   getCountriesByCurrencyCode,
   getCountryDetail,
+  getCountryByCountryCode,
 };

@@ -230,7 +230,7 @@
       "numeric": "036"
     },
     "currency": {
-      "name": "Australian dollar",
+      "name": "Australian Dollar",
       "ISOCode": "AUD"
     },
     "sovereignty": "UN member",
@@ -789,7 +789,7 @@
       "numeric": "162"
     },
     "currency": {
-      "name": " Australian Dollar",
+      "name": "Australian Dollar",
       "ISOCode": "AUD"
     },
     "sovereignty": "Australia",
@@ -806,7 +806,7 @@
       "numeric": "166"
     },
     "currency": {
-      "name": "Australian dollar",
+      "name": "Australian Dollar",
       "ISOCode": "AUD"
     },
     "sovereignty": "Australia",
@@ -897,6 +897,23 @@
     "sovereignty": "UN member",
     "continent": ["North America"],
     "topLevelDomain": ".cr"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "officialName": "The Republic of Côte d'Ivoire",
+    "countryCode": "+225",
+    "ISOCodes": {
+      "alpha2Code": "CI",
+      "alpha3Code": "CIV",
+      "numeric": "384"
+    },
+    "currency": {
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ci"
   },
   {
     "name": "Croatia",
@@ -1612,6 +1629,1044 @@
     "topLevelDomain": ".gy"
   },
   {
+    "name": "Haiti",
+    "officialName": "The Republic of Haiti",
+    "countryCode": "+509",
+    "ISOCodes": {
+      "alpha2Code": "HT",
+      "alpha3Code": "HTI",
+      "numeric": "332"
+    },
+    "currency": {
+      "name": "Haitian Gourde",
+      "ISOCode": "HTG"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".ht"
+  },
+
+  {
+    "name": "Heard Island and McDonald Islands",
+    "officialName": "The Territory of Heard Island and McDonald Islands",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "HM",
+      "alpha3Code": "HMD",
+      "numeric": "334"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "ISOCode": "AUD"
+    },
+    "sovereignty": "Australias",
+    "continent": ["Australia"],
+    "topLevelDomain": ".hm"
+  },
+  {
+    "name": "Holy See",
+    "officialName": "The Holy See",
+    "countryCode": "+379",
+    "ISOCodes": {
+      "alpha2Code": "VA",
+      "alpha3Code": "VAT",
+      "numeric": "336"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN observer",
+    "continent": ["Europe"],
+    "topLevelDomain": ".va"
+  },
+  {
+    "name": "Honduras",
+    "officialName": "The Republic of Honduras",
+    "countryCode": "+504",
+    "ISOCodes": {
+      "alpha2Code": "HN",
+      "alpha3Code": "HND",
+      "numeric": "340"
+    },
+    "currency": {
+      "name": "Honduras Lempira",
+      "ISOCode": "HNL"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".hn"
+  },
+  {
+    "name": "Hong Kong",
+    "officialName": "The Hong Kong Special Administrative Region of China",
+    "countryCode": "+852",
+    "ISOCodes": {
+      "alpha2Code": "HK",
+      "alpha3Code": "HKG",
+      "numeric": "344"
+    },
+    "currency": {
+      "name": "Hong Kong Dollar",
+      "ISOCode": "HKD"
+    },
+    "sovereignty": "China",
+    "continent": ["Asia"],
+    "topLevelDomain": ".hk"
+  },
+  {
+    "name": "Hungary",
+    "officialName": "Hungary",
+    "countryCode": "+36",
+    "ISOCodes": {
+      "alpha2Code": "HU",
+      "alpha3Code": "HUN",
+      "numeric": "348"
+    },
+    "currency": {
+      "name": "Hungary Forint",
+      "ISOCode": "HUF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".hu"
+  },
+  {
+    "name": "Iceland",
+    "officialName": "Iceland",
+    "countryCode": "+354",
+    "ISOCodes": {
+      "alpha2Code": "IS",
+      "alpha3Code": "ISL",
+      "numeric": "352"
+    },
+    "currency": {
+      "name": "Iceland Krona ",
+      "ISOCode": "ISK"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".is"
+  },
+  {
+    "name": "India",
+    "officialName": "The Republic of India",
+    "countryCode": "+91",
+    "ISOCodes": {
+      "alpha2Code": "IN",
+      "alpha3Code": "IND",
+      "numeric": "356"
+    },
+    "currency": {
+      "name": "India Rupee",
+      "ISOCode": "INR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".in"
+  },
+  {
+    "name": "Indonesia",
+    "officialName": "The Republic of Indonesia",
+    "countryCode": "+62",
+    "ISOCodes": {
+      "alpha2Code": "ID",
+      "alpha3Code": "IDN",
+      "numeric": "360"
+    },
+    "currency": {
+      "name": "Indonesia Rupiah",
+      "ISOCode": "IDR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".id"
+  },
+  {
+    "name": "Iran",
+    "officialName": "The Islamic Republic of Iran",
+    "countryCode": "+98",
+    "ISOCodes": {
+      "alpha2Code": "IR",
+      "alpha3Code": "IRN",
+      "numeric": "364"
+    },
+    "currency": {
+      "name": "Iran Rial",
+      "ISOCode": "IRR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".ir"
+  },
+  {
+    "name": "Iraq",
+    "officialName": "The Republic of Iraq",
+    "countryCode": "+964",
+    "ISOCodes": {
+      "alpha2Code": "IQ",
+      "alpha3Code": "IRQ",
+      "numeric": "368"
+    },
+    "currency": {
+      "name": "Iraqi Dinar",
+      "ISOCode": "IQD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".iq"
+  },
+  {
+    "name": "Ireland",
+    "officialName": "Ireland",
+    "countryCode": "+353",
+    "ISOCodes": {
+      "alpha2Code": "IE",
+      "alpha3Code": "IRL",
+      "numeric": "372"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".ie"
+  },
+  {
+    "name": "Isle of Man",
+    "officialName": "The Isle of Man",
+    "countryCode": "+44",
+    "ISOCodes": {
+      "alpha2Code": "IM",
+      "alpha3Code": "IMN",
+      "numeric": "833"
+    },
+    "currency": {
+      "name": "United Kingdom Pound",
+      "ISOCode": "GBP"
+    },
+    "sovereignty": "British Crown",
+    "continent": ["Europe"],
+    "topLevelDomain": ".im"
+  },
+  {
+    "name": "Israel",
+    "officialName": "The State of Israel",
+    "countryCode": "+972",
+    "ISOCodes": {
+      "alpha2Code": "IL",
+      "alpha3Code": "ISR",
+      "numeric": "376"
+    },
+    "currency": {
+      "name": "Israel Shekel",
+      "ISOCode": "ILS"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".il"
+  },
+  {
+    "name": "Italy",
+    "officialName": "The Italian Republic",
+    "countryCode": "+39",
+    "ISOCodes": {
+      "alpha2Code": "IT",
+      "alpha3Code": "ITA",
+      "numeric": "380"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".it"
+  },
+  {
+    "name": "Jamaica",
+    "officialName": "Jamaica",
+    "countryCode": "+1-876",
+    "ISOCodes": {
+      "alpha2Code": "JM",
+      "alpha3Code": "JAM",
+      "numeric": "388"
+    },
+    "currency": {
+      "name": "Jamaica Dollar",
+      "ISOCode": "JMD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".jm"
+  },
+  {
+    "name": "Japan",
+    "officialName": "Japan",
+    "countryCode": "+81",
+    "ISOCodes": {
+      "alpha2Code": "JP",
+      "alpha3Code": "JPN",
+      "numeric": "392"
+    },
+    "currency": {
+      "name": "Japan Yen",
+      "ISOCode": "JPY"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".jp"
+  },
+  {
+    "name": "Jersey",
+    "officialName": "The Bailiwick of Jersey",
+    "countryCode": "+44-1534",
+    "ISOCodes": {
+      "alpha2Code": "JE",
+      "alpha3Code": "JEY",
+      "numeric": "832"
+    },
+    "currency": {
+      "name": "United Kingdom Pound",
+      "ISOCode": "GBP"
+    },
+    "sovereignty": "British Crown",
+    "continent": ["Europe"],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "Jordan",
+    "officialName": "The Hashemite Kingdom of Jordan",
+    "countryCode": "+962",
+    "ISOCodes": {
+      "alpha2Code": "JO",
+      "alpha3Code": "JOR",
+      "numeric": "400"
+    },
+    "currency": {
+      "name": "Jordanian Dinar",
+      "ISOCode": "JOD"
+    },
+    "sovereignty": "United Kingdom",
+    "continent": ["Asia"],
+    "topLevelDomain": ".jo"
+  },
+  {
+    "name": "Kazakhstan",
+    "officialName": "The Republic of Kazakhstan",
+    "countryCode": "+7",
+    "ISOCodes": {
+      "alpha2Code": "KZ",
+      "alpha3Code": "KAZ",
+      "numeric": "398"
+    },
+    "currency": {
+      "name": "Kazakhstan Tenge",
+      "ISOCode": "KZT"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia", "Europe"],
+    "topLevelDomain": ".kz"
+  },
+  {
+    "name": "Kenya",
+    "officialName": "The Republic of Kenya",
+    "countryCode": "+254",
+    "ISOCodes": {
+      "alpha2Code": "KE",
+      "alpha3Code": "KEN",
+      "numeric": "404"
+    },
+    "currency": {
+      "name": "Kenyan Shilling ",
+      "ISOCode": "KES"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ke"
+  },
+  {
+    "name": "Kiribati",
+    "officialName": "The Republic of Kiribati",
+    "countryCode": "+686",
+    "ISOCodes": {
+      "alpha2Code": "KI",
+      "alpha3Code": "KIR",
+      "numeric": "296"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "ISOCode": "AUD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".ki"
+  },
+  {
+    "name": "Kuwait",
+    "officialName": "The State of Kuwait",
+    "countryCode": "+965",
+    "ISOCodes": {
+      "alpha2Code": "KW",
+      "alpha3Code": "KWT",
+      "numeric": "414"
+    },
+    "currency": {
+      "name": "Kuwaiti Dinar",
+      "ISOCode": "KWD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".kw"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "officialName": "The Kyrgyz Republic",
+    "countryCode": "+996",
+    "ISOCodes": {
+      "alpha2Code": "KG",
+      "alpha3Code": "KGZ",
+      "numeric": "417"
+    },
+    "currency": {
+      "name": "Kyrgyzstan Som",
+      "ISOCode": "KGS"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".kg"
+  },
+  {
+    "name": "Laos",
+    "officialName": "The Lao People's Democratic Republic",
+    "countryCode": "+856",
+    "ISOCodes": {
+      "alpha2Code": "LA",
+      "alpha3Code": "LAO",
+      "numeric": "418"
+    },
+    "currency": {
+      "name": "Laos Kip",
+      "ISOCode": "LAK"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".la"
+  },
+  {
+    "name": "Latvia",
+    "officialName": "The Republic of Latvia",
+    "countryCode": "+371",
+    "ISOCodes": {
+      "alpha2Code": "LV",
+      "alpha3Code": "LVA",
+      "numeric": "428"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".lv"
+  },
+  {
+    "name": "Lebanon",
+    "officialName": "The Lebanese Republic",
+    "countryCode": "+961",
+    "ISOCodes": {
+      "alpha2Code": "LB",
+      "alpha3Code": "LBN",
+      "numeric": "422"
+    },
+    "currency": {
+      "name": "Lebanon Pound",
+      "ISOCode": "LBP"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".lb"
+  },
+  {
+    "name": "Lesotho",
+    "officialName": "The Kingdom of Lesotho",
+    "countryCode": "+266",
+    "ISOCodes": {
+      "alpha2Code": "LS",
+      "alpha3Code": "LSO",
+      "numeric": "426"
+    },
+    "currency": {
+      "name": "Lesotho Lot",
+      "ISOCode": "LSL"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ls"
+  },
+  {
+    "name": "Liberia",
+    "officialName": "The Republic of Liberia",
+    "countryCode": "+231",
+    "ISOCodes": {
+      "alpha2Code": "LR",
+      "alpha3Code": "LBR",
+      "numeric": "430"
+    },
+    "currency": {
+      "name": "Liberia Dollar",
+      "ISOCode": "LRD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".lr"
+  },
+  {
+    "name": "Libya",
+    "officialName": "The State of Libya",
+    "countryCode": "+218",
+    "ISOCodes": {
+      "alpha2Code": "LY",
+      "alpha3Code": "LBY",
+      "numeric": "434"
+    },
+    "currency": {
+      "name": "Libyan Dinar",
+      "ISOCode": "LYD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ly"
+  },
+  {
+    "name": "Liechtenstein",
+    "officialName": "The Principality of Liechtenstein",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "LI",
+      "alpha3Code": "LIE",
+      "numeric": "438"
+    },
+    "currency": {
+      "name": "Switzerland Franc",
+      "ISOCode": "CHF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".li"
+  },
+  {
+    "name": "Lithuania",
+    "officialName": "The Republic of Lithuania",
+    "countryCode": "+370",
+    "ISOCodes": {
+      "alpha2Code": "LT",
+      "alpha3Code": "LTU",
+      "numeric": "440"
+    },
+    "currency": {
+      "name": "Lithuania Litas ",
+      "ISOCode": "LTL"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".lt"
+  },
+  {
+    "name": "Luxembourg",
+    "officialName": "The Grand Duchy of Luxembourg",
+    "countryCode": "+352",
+    "ISOCodes": {
+      "alpha2Code": "LU",
+      "alpha3Code": "LUX",
+      "numeric": "442"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".lu"
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "countryCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
     "name": "",
     "officialName": "",
     "countryCode": "",
@@ -1629,312 +2684,6 @@
     "topLevelDomain": ""
   },
 
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
   {
     "name": "",
     "officialName": "",

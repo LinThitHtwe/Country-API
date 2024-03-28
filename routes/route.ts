@@ -11,6 +11,10 @@ router.get(
   countryController.getCountriesBySovereignty
 );
 router.get(
+  "/countryCode/:countryCode",
+  countryController.getCountryByCountryCode
+);
+router.get(
   "/isocode/numeric/:ISONumericCode",
   countryController.getCountryByISONumericCode
 );

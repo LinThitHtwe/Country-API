@@ -2,7 +2,7 @@
   {
     "name": "Afghanistan",
     "officialName": "The Islamic Republic of Afghanistan",
-    "countryCode": "+93",
+    "dialingCode": "+93",
     "ISOCodes": {
       "alpha2Code": "AF",
       "alpha3Code": "AFG",
@@ -19,7 +19,7 @@
   {
     "name": "Åland Islands",
     "officialName": "Åland",
-    "countryCode": "+358",
+    "dialingCode": "+358",
     "ISOCodes": {
       "alpha2Code": "AX",
       "alpha3Code": "ALA",
@@ -36,7 +36,7 @@
   {
     "name": "Albania",
     "officialName": "The Republic of Albania",
-    "countryCode": "+355",
+    "dialingCode": "+355",
     "ISOCodes": {
       "alpha2Code": "AL",
       "alpha3Code": "ALB",
@@ -53,7 +53,7 @@
   {
     "name": "Algeria",
     "officialName": "People's Democratic Republic of Algeria",
-    "countryCode": "+213",
+    "dialingCode": "+213",
     "ISOCodes": {
       "alpha2Code": "DZ",
       "alpha3Code": "DZA",
@@ -70,7 +70,7 @@
   {
     "name": "American Samoa",
     "officialName": "The Territory of American Samoa",
-    "countryCode": "+1-684",
+    "dialingCode": "+1-684",
     "ISOCodes": {
       "alpha2Code": "AS",
       "alpha3Code": "ASM",
@@ -87,7 +87,7 @@
   {
     "name": "Andorra",
     "officialName": "The Principality of Andorra",
-    "countryCode": "+376",
+    "dialingCode": "+376",
     "ISOCodes": {
       "alpha2Code": "AD",
       "alpha3Code": "AND",
@@ -104,7 +104,7 @@
   {
     "name": "Angola",
     "officialName": "The Republic of Angola",
-    "countryCode": "+244",
+    "dialingCode": "+244",
     "ISOCodes": {
       "alpha2Code": "AO",
       "alpha3Code": "AGO",
@@ -121,7 +121,7 @@
   {
     "name": "Anguilla",
     "officialName": "Anguilla",
-    "countryCode": "+1-264",
+    "dialingCode": "+1-264",
     "ISOCodes": {
       "alpha2Code": "AI",
       "alpha3Code": "AIA",
@@ -138,7 +138,7 @@
   {
     "name": "Antarctica",
     "officialName": "Antarctica (all land and ice shelves south of the 60th parallel south)",
-    "countryCode": "+672",
+    "dialingCode": "+672",
     "ISOCodes": {
       "alpha2Code": "AQ",
       "alpha3Code": "ATA",
@@ -155,7 +155,7 @@
   {
     "name": "Antigua and Barbuda",
     "officialName": "Antigua and Barbuda",
-    "countryCode": "+1-268",
+    "dialingCode": "+1-268",
     "ISOCodes": {
       "alpha2Code": "AG",
       "alpha3Code": "ATG",
@@ -172,7 +172,7 @@
   {
     "name": "Argentina",
     "officialName": "The Argentine Republic",
-    "countryCode": "+54",
+    "dialingCode": "+54",
     "ISOCodes": {
       "alpha2Code": "AR",
       "alpha3Code": "ATG",
@@ -189,7 +189,7 @@
   {
     "name": "Armenia",
     "officialName": "The Republic of Armenia",
-    "countryCode": "+374",
+    "dialingCode": "+374",
     "ISOCodes": {
       "alpha2Code": "AM",
       "alpha3Code": "ARM",
@@ -206,7 +206,7 @@
   {
     "name": "Aruba",
     "officialName": "Aruba",
-    "countryCode": "+297",
+    "dialingCode": "+297",
     "ISOCodes": {
       "alpha2Code": "AW",
       "alpha3Code": "ABW",
@@ -223,7 +223,7 @@
   {
     "name": "Australia",
     "officialName": "The Commonwealth of Australia",
-    "countryCode": "+61",
+    "dialingCode": "+61",
     "ISOCodes": {
       "alpha2Code": "AU",
       "alpha3Code": "AUS",
@@ -240,7 +240,7 @@
   {
     "name": "Austria",
     "officialName": "The Republic of Austria",
-    "countryCode": "+43",
+    "dialingCode": "+43",
     "ISOCodes": {
       "alpha2Code": "AT",
       "alpha3Code": "AUT",
@@ -257,7 +257,7 @@
   {
     "name": "Azerbaijan",
     "officialName": "The Republic of Azerbaijan",
-    "countryCode": "+994",
+    "dialingCode": "+994",
     "ISOCodes": {
       "alpha2Code": "AZ",
       "alpha3Code": "AZE",
@@ -274,7 +274,7 @@
   {
     "name": "Bahamas",
     "officialName": "The Commonwealth of The Bahamas",
-    "countryCode": "+1-242",
+    "dialingCode": "+1-242",
     "ISOCodes": {
       "alpha2Code": "BS",
       "alpha3Code": "BHS",
@@ -291,7 +291,7 @@
   {
     "name": "Bahrain",
     "officialName": "The Kingdom of Bahrain",
-    "countryCode": "+973",
+    "dialingCode": "+973",
     "ISOCodes": {
       "alpha2Code": "BH",
       "alpha3Code": "BHR",
@@ -308,7 +308,7 @@
   {
     "name": "Bangladesh",
     "officialName": "The People's Republic of Bangladesh",
-    "countryCode": "+880",
+    "dialingCode": "+880",
     "ISOCodes": {
       "alpha2Code": "BD",
       "alpha3Code": "BGD",
@@ -325,7 +325,7 @@
   {
     "name": "Barbados",
     "officialName": "Barbados",
-    "countryCode": "+1-246",
+    "dialingCode": "+1-246",
     "ISOCodes": {
       "alpha2Code": "BB",
       "alpha3Code": "BRB",
@@ -342,7 +342,7 @@
   {
     "name": "Belarus",
     "officialName": "The Republic of Belarus",
-    "countryCode": "+375",
+    "dialingCode": "+375",
     "ISOCodes": {
       "alpha2Code": "BY",
       "alpha3Code": "BLR",
@@ -359,7 +359,7 @@
   {
     "name": "Belgium",
     "officialName": "The Kingdom of Belgium",
-    "countryCode": "+32",
+    "dialingCode": "+32",
     "ISOCodes": {
       "alpha2Code": "BE",
       "alpha3Code": "BEL",
@@ -376,7 +376,7 @@
   {
     "name": "Belize",
     "officialName": "Belize",
-    "countryCode": "+501",
+    "dialingCode": "+501",
     "ISOCodes": {
       "alpha2Code": "BZ",
       "alpha3Code": "BLZ",
@@ -393,7 +393,7 @@
   {
     "name": "Benin",
     "officialName": "The Republic of Benin",
-    "countryCode": "+229",
+    "dialingCode": "+229",
     "ISOCodes": {
       "alpha2Code": "BJ",
       "alpha3Code": "BEN",
@@ -410,7 +410,7 @@
   {
     "name": "Bermuda",
     "officialName": "Bermuda",
-    "countryCode": "+1-441",
+    "dialingCode": "+1-441",
     "ISOCodes": {
       "alpha2Code": "BM",
       "alpha3Code": "BMU",
@@ -427,7 +427,7 @@
   {
     "name": "Bhutan",
     "officialName": "The Kingdom of Bhutan",
-    "countryCode": "+975",
+    "dialingCode": "+975",
     "ISOCodes": {
       "alpha2Code": "BT",
       "alpha3Code": "BTN",
@@ -444,7 +444,7 @@
   {
     "name": "Bolivia",
     "officialName": "The Plurinational State of Bolivia",
-    "countryCode": "+591",
+    "dialingCode": "+591",
     "ISOCodes": {
       "alpha2Code": "BO",
       "alpha3Code": "BOL",
@@ -461,7 +461,7 @@
   {
     "name": "Bonaire,Sint Eustatius and Saba",
     "officialName": "Bonaire,Sint Eustatius and Saba",
-    "countryCode": "+599",
+    "dialingCode": "+599",
     "ISOCodes": {
       "alpha2Code": "BQ",
       "alpha3Code": "BES",
@@ -478,7 +478,7 @@
   {
     "name": "Bosnia and Herzegovina",
     "officialName": "Bosnia and Herzegovina",
-    "countryCode": "+387",
+    "dialingCode": "+387",
     "ISOCodes": {
       "alpha2Code": "BA",
       "alpha3Code": "BIH",
@@ -495,7 +495,7 @@
   {
     "name": "Botswana",
     "officialName": "The Republic of Botswana",
-    "countryCode": "+267",
+    "dialingCode": "+267",
     "ISOCodes": {
       "alpha2Code": "BW",
       "alpha3Code": "BWA",
@@ -512,7 +512,7 @@
   {
     "name": "Brazil",
     "officialName": "The Federative Republic of Brazil",
-    "countryCode": "+55",
+    "dialingCode": "+55",
     "ISOCodes": {
       "alpha2Code": "BR",
       "alpha3Code": "BRA",
@@ -529,7 +529,7 @@
   {
     "name": "British Indian Ocean Territory",
     "officialName": "The British Indian Ocean Territory",
-    "countryCode": "+246",
+    "dialingCode": "+246",
     "ISOCodes": {
       "alpha2Code": "IO",
       "alpha3Code": "IOT",
@@ -546,7 +546,7 @@
   {
     "name": "British Virgin Islands",
     "officialName": "The Virgin Islands",
-    "countryCode": "+1-284",
+    "dialingCode": "+1-284",
     "ISOCodes": {
       "alpha2Code": "VG",
       "alpha3Code": "VGB",
@@ -563,7 +563,7 @@
   {
     "name": "Brunei Darussalam",
     "officialName": "The Nation of Brunei, the Abode of Peace",
-    "countryCode": "+673",
+    "dialingCode": "+673",
     "ISOCodes": {
       "alpha2Code": "BN",
       "alpha3Code": "BRN",
@@ -580,7 +580,7 @@
   {
     "name": "Bulgaria",
     "officialName": "The Republic of Bulgaria",
-    "countryCode": "+359",
+    "dialingCode": "+359",
     "ISOCodes": {
       "alpha2Code": "BG",
       "alpha3Code": "BGR",
@@ -597,7 +597,7 @@
   {
     "name": "Burkina Faso",
     "officialName": "Burkina Faso",
-    "countryCode": "+226",
+    "dialingCode": "+226",
     "ISOCodes": {
       "alpha2Code": "BF",
       "alpha3Code": "BFA",
@@ -614,7 +614,7 @@
   {
     "name": "Burundi",
     "officialName": "The Republic of Burundi",
-    "countryCode": "+257",
+    "dialingCode": "+257",
     "ISOCodes": {
       "alpha2Code": "BI",
       "alpha3Code": "BDI",
@@ -631,7 +631,7 @@
   {
     "name": "Cabo Verde",
     "officialName": "The Republic of Cabo Verde",
-    "countryCode": "+238",
+    "dialingCode": "+238",
     "ISOCodes": {
       "alpha2Code": "CV",
       "alpha3Code": "CPV",
@@ -648,7 +648,7 @@
   {
     "name": "Cambodia",
     "officialName": "The Kingdom of Cambodia",
-    "countryCode": "+855",
+    "dialingCode": "+855",
     "ISOCodes": {
       "alpha2Code": "KH",
       "alpha3Code": "KHM",
@@ -665,7 +665,7 @@
   {
     "name": "Cameroon",
     "officialName": "The Republic of Cameroon",
-    "countryCode": "+237",
+    "dialingCode": "+237",
     "ISOCodes": {
       "alpha2Code": "CM",
       "alpha3Code": "CMR",
@@ -682,7 +682,7 @@
   {
     "name": "Canada",
     "officialName": "Canada",
-    "countryCode": "+1",
+    "dialingCode": "+1",
     "ISOCodes": {
       "alpha2Code": "CA",
       "alpha3Code": "CAN",
@@ -699,7 +699,7 @@
   {
     "name": "Cayman Islands",
     "officialName": "The Cayman Islands",
-    "countryCode": "+1-345",
+    "dialingCode": "+1-345",
     "ISOCodes": {
       "alpha2Code": "KY",
       "alpha3Code": "CYM",
@@ -716,7 +716,7 @@
   {
     "name": "Central African Republic",
     "officialName": "The Central African Republic",
-    "countryCode": "+236",
+    "dialingCode": "+236",
     "ISOCodes": {
       "alpha2Code": "CF",
       "alpha3Code": "CAF",
@@ -733,7 +733,7 @@
   {
     "name": "Chad",
     "officialName": "The Republic of Chad",
-    "countryCode": "+235",
+    "dialingCode": "+235",
     "ISOCodes": {
       "alpha2Code": "TD",
       "alpha3Code": "TCD"
@@ -749,7 +749,7 @@
   {
     "name": "Chile",
     "officialName": "The Republic of Chile",
-    "countryCode": "+56",
+    "dialingCode": "+56",
     "ISOCodes": {
       "alpha2Code": "CL",
       "alpha3Code": "CHL",
@@ -766,7 +766,7 @@
   {
     "name": "China",
     "officialName": "The People's Republic of China",
-    "countryCode": "+86",
+    "dialingCode": "+86",
     "ISOCodes": {
       "alpha2Code": "CN",
       "alpha3Code": "CHN"
@@ -782,7 +782,7 @@
   {
     "name": "Christmas Island",
     "officialName": "The Territory of Christmas Island",
-    "countryCode": "+61",
+    "dialingCode": "+61",
     "ISOCodes": {
       "alpha2Code": "CX",
       "alpha3Code": "CXR",
@@ -799,7 +799,7 @@
   {
     "name": "Cocos Islands",
     "officialName": "The Territory of Cocos (Keeling) Islands",
-    "countryCode": "+61",
+    "dialingCode": "+61",
     "ISOCodes": {
       "alpha2Code": "CC",
       "alpha3Code": "CCK",
@@ -816,7 +816,7 @@
   {
     "name": "Colombia",
     "officialName": "The Republic of Colombia",
-    "countryCode": "+57",
+    "dialingCode": "+57",
     "ISOCodes": {
       "alpha2Code": "CO",
       "alpha3Code": "COL",
@@ -833,7 +833,7 @@
   {
     "name": "Comoros",
     "officialName": "The Union of the Comoros",
-    "countryCode": "+269",
+    "dialingCode": "+269",
     "ISOCodes": {
       "alpha2Code": "KM",
       "alpha3Code": "COM",
@@ -850,7 +850,7 @@
   {
     "name": "Congo",
     "officialName": "The Republic of the Congo",
-    "countryCode": "+243",
+    "dialingCode": "+243",
     "ISOCodes": {
       "alpha2Code": "CD",
       "alpha3Code": "COD",
@@ -867,7 +867,7 @@
   {
     "name": "Cook Islands",
     "officialName": "Cook Islands",
-    "countryCode": "+682",
+    "dialingCode": "+682",
     "ISOCodes": {
       "alpha2Code": "CK",
       "alpha3Code": "COK",
@@ -884,7 +884,7 @@
   {
     "name": "Costa Rica",
     "officialName": "The Republic of Costa Rica",
-    "countryCode": "+506",
+    "dialingCode": "+506",
     "ISOCodes": {
       "alpha2Code": "CR",
       "alpha3Code": "CRI",
@@ -901,7 +901,7 @@
   {
     "name": "Côte d'Ivoire",
     "officialName": "The Republic of Côte d'Ivoire",
-    "countryCode": "+225",
+    "dialingCode": "+225",
     "ISOCodes": {
       "alpha2Code": "CI",
       "alpha3Code": "CIV",
@@ -918,7 +918,7 @@
   {
     "name": "Croatia",
     "officialName": "The Republic of Croatia",
-    "countryCode": "+385",
+    "dialingCode": "+385",
     "ISOCodes": {
       "alpha2Code": "HR",
       "alpha3Code": "HRV",
@@ -935,7 +935,7 @@
   {
     "name": "Cuba",
     "officialName": "Republic of Cuba",
-    "countryCode": "+53",
+    "dialingCode": "+53",
     "ISOCodes": {
       "alpha2Code": "CU",
       "alpha3Code": "CUB",
@@ -952,7 +952,7 @@
   {
     "name": "Curaaçao",
     "officialName": "The Country of Curaçao",
-    "countryCode": "+599",
+    "dialingCode": "+599",
     "ISOCodes": {
       "alpha2Code": "CW",
       "alpha3Code": "CUW",
@@ -969,7 +969,7 @@
   {
     "name": "Czechia",
     "officialName": "The Republic of Cyprus",
-    "countryCode": "+357",
+    "dialingCode": "+357",
     "ISOCodes": {
       "alpha2Code": "CY",
       "alpha3Code": "CYP",
@@ -986,7 +986,7 @@
   {
     "name": "Czech Republic",
     "officialName": "The Czech Republic",
-    "countryCode": "+420",
+    "dialingCode": "+420",
     "ISOCodes": {
       "alpha2Code": "CZ",
       "alpha3Code": "CZE",
@@ -1003,7 +1003,7 @@
   {
     "name": "Democratic Congo",
     "officialName": "The Democratic Republic of the Congo",
-    "countryCode": "+243",
+    "dialingCode": "+243",
     "ISOCodes": {
       "alpha2Code": "CD",
       "alpha3Code": "COD",
@@ -1020,7 +1020,7 @@
   {
     "name": "Denmark",
     "officialName": "The Kingdom of Denmark",
-    "countryCode": "+45",
+    "dialingCode": "+45",
     "ISOCodes": {
       "alpha2Code": "DK",
       "alpha3Code": "DNK",
@@ -1037,7 +1037,7 @@
   {
     "name": "Djibouti",
     "officialName": "The Republic of Djibouti",
-    "countryCode": "+253",
+    "dialingCode": "+253",
     "ISOCodes": {
       "alpha2Code": "DJ",
       "alpha3Code": "DJI",
@@ -1054,7 +1054,7 @@
   {
     "name": "Dominica",
     "officialName": "The Commonwealth of Dominica",
-    "countryCode": "+1-767",
+    "dialingCode": "+1-767",
     "ISOCodes": {
       "alpha2Code": "DM",
       "alpha3Code": "DMA",
@@ -1071,7 +1071,7 @@
   {
     "name": "Dominican Republic",
     "officialName": "The Dominican Republic",
-    "countryCode": "+1-809,+1-829,+1-849",
+    "dialingCode": "+1-809,+1-829,+1-849",
     "ISOCodes": {
       "alpha2Code": "DO",
       "alpha3Code": "DOM",
@@ -1088,7 +1088,7 @@
   {
     "name": "Ecuador",
     "officialName": "The Republic of Ecuador",
-    "countryCode": "+593",
+    "dialingCode": "+593",
     "ISOCodes": {
       "alpha2Code": "EC",
       "alpha3Code": "ECU",
@@ -1105,7 +1105,7 @@
   {
     "name": "Egypt",
     "officialName": "The Arab Republic of Egypt",
-    "countryCode": "+20",
+    "dialingCode": "+20",
     "ISOCodes": {
       "alpha2Code": "EG",
       "alpha3Code": "EGY",
@@ -1122,7 +1122,7 @@
   {
     "name": "El Salvador",
     "officialName": "The Republic of El Salvador",
-    "countryCode": "+503",
+    "dialingCode": "+503",
     "ISOCodes": {
       "alpha2Code": "SV",
       "alpha3Code": "SLV",
@@ -1139,7 +1139,7 @@
   {
     "name": "Equatorial Guinea",
     "officialName": "The Republic of Equatorial Guinea",
-    "countryCode": "+240",
+    "dialingCode": "+240",
     "ISOCodes": {
       "alpha2Code": "GQ",
       "alpha3Code": "CNQ",
@@ -1156,7 +1156,7 @@
   {
     "name": "Eritrea",
     "officialName": "The State of Eritrea",
-    "countryCode": "+291",
+    "dialingCode": "+291",
     "ISOCodes": {
       "alpha2Code": "ER",
       "alpha3Code": "ERI",
@@ -1173,7 +1173,7 @@
   {
     "name": "Estonia",
     "officialName": "The Republic of Estonia",
-    "countryCode": "+372",
+    "dialingCode": "+372",
     "ISOCodes": {
       "alpha2Code": "EE",
       "alpha3Code": "EST",
@@ -1190,7 +1190,7 @@
   {
     "name": "Eswatini",
     "officialName": "The Kingdom of Eswatini",
-    "countryCode": "+268",
+    "dialingCode": "+268",
     "ISOCodes": {
       "alpha2Code": "SZ",
       "alpha3Code": "SWZ",
@@ -1207,7 +1207,7 @@
   {
     "name": "Ethiopia",
     "officialName": "The Federal Democratic Republic of Ethiopia",
-    "countryCode": "+251",
+    "dialingCode": "+251",
     "ISOCodes": {
       "alpha2Code": "ET",
       "alpha3Code": "ETH",
@@ -1224,7 +1224,7 @@
   {
     "name": "Falkland Islands",
     "officialName": "The Falkland Islands",
-    "countryCode": "+500",
+    "dialingCode": "+500",
     "ISOCodes": {
       "alpha2Code": "FL",
       "alpha3Code": "FLK",
@@ -1241,7 +1241,7 @@
   {
     "name": "Faroe Islands",
     "officialName": "The Faroe Islands",
-    "countryCode": "+298",
+    "dialingCode": "+298",
     "ISOCodes": {
       "alpha2Code": "FRO",
       "numeric": "234"
@@ -1257,7 +1257,7 @@
   {
     "name": "Fiji",
     "officialName": "The Republic of Fiji",
-    "countryCode": "+679",
+    "dialingCode": "+679",
     "ISOCodes": {
       "alpha2Code": "FJ",
       "alpha3Code": "FJI",
@@ -1274,7 +1274,7 @@
   {
     "name": "Findland",
     "officialName": "The Republic of Finland",
-    "countryCode": "+358",
+    "dialingCode": "+358",
     "ISOCodes": {
       "alpha2Code": "FI",
       "alpha3Code": "FIN",
@@ -1291,7 +1291,7 @@
   {
     "name": "France",
     "officialName": "The French Republic",
-    "countryCode": "+33",
+    "dialingCode": "+33",
     "ISOCodes": {
       "alpha2Code": "FR",
       "alpha3Code": "FRA",
@@ -1308,7 +1308,7 @@
   {
     "name": "French Guiana",
     "officialName": "Guyane",
-    "countryCode": "+594",
+    "dialingCode": "+594",
     "ISOCodes": {
       "alpha2Code": "GF",
       "alpha3Code": "GUF",
@@ -1325,7 +1325,7 @@
   {
     "name": "French Polynesia",
     "officialName": "French Polynesia",
-    "countryCode": "+689",
+    "dialingCode": "+689",
     "ISOCodes": {
       "alpha2Code": "PF",
       "alpha3Code": "PYF",
@@ -1342,7 +1342,7 @@
   {
     "name": "French Southern Territories",
     "officialName": "The French Southern and Antarctic Lands",
-    "countryCode": "+262",
+    "dialingCode": "+262",
     "ISOCodes": {
       "alpha2Code": "TF",
       "alpha3Code": "ATF",
@@ -1359,7 +1359,7 @@
   {
     "name": "Gabon",
     "officialName": "The Gabonese Republic",
-    "countryCode": "+241",
+    "dialingCode": "+241",
     "ISOCodes": {
       "alpha2Code": "GA",
       "alpha3Code": "GAB",
@@ -1376,7 +1376,7 @@
   {
     "name": "Gambia",
     "officialName": "The Republic of The Gambia",
-    "countryCode": "+220",
+    "dialingCode": "+220",
     "ISOCodes": {
       "alpha2Code": "GM",
       "alpha3Code": "GMB",
@@ -1393,7 +1393,7 @@
   {
     "name": "Georgia",
     "officialName": "Georgia",
-    "countryCode": "+995",
+    "dialingCode": "+995",
     "ISOCodes": {
       "alpha2Code": "GE",
       "alpha3Code": "GEO",
@@ -1410,7 +1410,7 @@
   {
     "name": "Germany",
     "officialName": "The Federal Republic of Germany",
-    "countryCode": "+49",
+    "dialingCode": "+49",
     "ISOCodes": {
       "alpha2Code": "DE",
       "alpha3Code": "DEU",
@@ -1427,7 +1427,7 @@
   {
     "name": "Ghana",
     "officialName": "The Republic of Ghana",
-    "countryCode": "+233",
+    "dialingCode": "+233",
     "ISOCodes": {
       "alpha2Code": "GH",
       "alpha3Code": "GHA",
@@ -1444,7 +1444,7 @@
   {
     "name": "Gibraltar",
     "officialName": "Gibraltar",
-    "countryCode": "+350",
+    "dialingCode": "+350",
     "ISOCodes": {
       "alpha2Code": "GI",
       "alpha3Code": "GIB",
@@ -1461,7 +1461,7 @@
   {
     "name": "Greece",
     "officialName": "The Hellenic Republic",
-    "countryCode": "+30",
+    "dialingCode": "+30",
     "ISOCodes": {
       "alpha2Code": "GR",
       "alpha3Code": "GRC",
@@ -1478,7 +1478,7 @@
   {
     "name": "Greenland",
     "officialName": "Kalaallit Nunaat",
-    "countryCode": "+299",
+    "dialingCode": "+299",
     "ISOCodes": {
       "alpha2Code": "GL",
       "alpha3Code": "GRL",
@@ -1495,7 +1495,7 @@
   {
     "name": "Grenada",
     "officialName": "Grenada",
-    "countryCode": "+1-473",
+    "dialingCode": "+1-473",
     "ISOCodes": {
       "alpha2Code": "GD",
       "alpha3Code": "GRD",
@@ -1512,7 +1512,7 @@
   {
     "name": "Guadeloupe",
     "officialName": "Guadeloupe",
-    "countryCode": "+590",
+    "dialingCode": "+590",
     "ISOCodes": {
       "alpha2Code": "GP",
       "alpha3Code": "GLP",
@@ -1529,7 +1529,7 @@
   {
     "name": "Guam",
     "officialName": "The Territory of Guam",
-    "countryCode": "+1-671",
+    "dialingCode": "+1-671",
     "ISOCodes": {
       "alpha2Code": "GU",
       "alpha3Code": "GUM",
@@ -1546,7 +1546,7 @@
   {
     "name": "Guatemala",
     "officialName": "The Republic of Guatemala",
-    "countryCode": "+502",
+    "dialingCode": "+502",
     "ISOCodes": {
       "alpha2Code": "CT",
       "alpha3Code": "CTM",
@@ -1563,7 +1563,7 @@
   {
     "name": "Guernsey",
     "officialName": "The Bailiwick of Guernsey",
-    "countryCode": "+44-1481",
+    "dialingCode": "+44-1481",
     "ISOCodes": {
       "alpha2Code": "GG",
       "alpha3Code": "GGY",
@@ -1580,7 +1580,7 @@
   {
     "name": "Guinea",
     "officialName": "The Republic of Guinea",
-    "countryCode": "+224",
+    "dialingCode": "+224",
     "ISOCodes": {
       "alpha2Code": "GN",
       "alpha3Code": "GIN",
@@ -1597,7 +1597,7 @@
   {
     "name": "Guinea-Bissau",
     "officialName": "The Republic of Guinea-Bissau",
-    "countryCode": "+245",
+    "dialingCode": "+245",
     "ISOCodes": {
       "alpha2Code": "GW",
       "alpha3Code": "GNB",
@@ -1614,7 +1614,7 @@
   {
     "name": "Guyana",
     "officialName": "The Co-operative Republic of Guyana",
-    "countryCode": "+592",
+    "dialingCode": "+592",
     "ISOCodes": {
       "alpha2Code": "GY",
       "alpha3Code": "GUY",
@@ -1631,7 +1631,7 @@
   {
     "name": "Haiti",
     "officialName": "The Republic of Haiti",
-    "countryCode": "+509",
+    "dialingCode": "+509",
     "ISOCodes": {
       "alpha2Code": "HT",
       "alpha3Code": "HTI",
@@ -1649,7 +1649,7 @@
   {
     "name": "Heard Island and McDonald Islands",
     "officialName": "The Territory of Heard Island and McDonald Islands",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "HM",
       "alpha3Code": "HMD",
@@ -1666,7 +1666,7 @@
   {
     "name": "Holy See",
     "officialName": "The Holy See",
-    "countryCode": "+379",
+    "dialingCode": "+379",
     "ISOCodes": {
       "alpha2Code": "VA",
       "alpha3Code": "VAT",
@@ -1683,7 +1683,7 @@
   {
     "name": "Honduras",
     "officialName": "The Republic of Honduras",
-    "countryCode": "+504",
+    "dialingCode": "+504",
     "ISOCodes": {
       "alpha2Code": "HN",
       "alpha3Code": "HND",
@@ -1700,7 +1700,7 @@
   {
     "name": "Hong Kong",
     "officialName": "The Hong Kong Special Administrative Region of China",
-    "countryCode": "+852",
+    "dialingCode": "+852",
     "ISOCodes": {
       "alpha2Code": "HK",
       "alpha3Code": "HKG",
@@ -1717,7 +1717,7 @@
   {
     "name": "Hungary",
     "officialName": "Hungary",
-    "countryCode": "+36",
+    "dialingCode": "+36",
     "ISOCodes": {
       "alpha2Code": "HU",
       "alpha3Code": "HUN",
@@ -1734,7 +1734,7 @@
   {
     "name": "Iceland",
     "officialName": "Iceland",
-    "countryCode": "+354",
+    "dialingCode": "+354",
     "ISOCodes": {
       "alpha2Code": "IS",
       "alpha3Code": "ISL",
@@ -1751,7 +1751,7 @@
   {
     "name": "India",
     "officialName": "The Republic of India",
-    "countryCode": "+91",
+    "dialingCode": "+91",
     "ISOCodes": {
       "alpha2Code": "IN",
       "alpha3Code": "IND",
@@ -1768,7 +1768,7 @@
   {
     "name": "Indonesia",
     "officialName": "The Republic of Indonesia",
-    "countryCode": "+62",
+    "dialingCode": "+62",
     "ISOCodes": {
       "alpha2Code": "ID",
       "alpha3Code": "IDN",
@@ -1785,7 +1785,7 @@
   {
     "name": "Iran",
     "officialName": "The Islamic Republic of Iran",
-    "countryCode": "+98",
+    "dialingCode": "+98",
     "ISOCodes": {
       "alpha2Code": "IR",
       "alpha3Code": "IRN",
@@ -1802,7 +1802,7 @@
   {
     "name": "Iraq",
     "officialName": "The Republic of Iraq",
-    "countryCode": "+964",
+    "dialingCode": "+964",
     "ISOCodes": {
       "alpha2Code": "IQ",
       "alpha3Code": "IRQ",
@@ -1819,7 +1819,7 @@
   {
     "name": "Ireland",
     "officialName": "Ireland",
-    "countryCode": "+353",
+    "dialingCode": "+353",
     "ISOCodes": {
       "alpha2Code": "IE",
       "alpha3Code": "IRL",
@@ -1836,7 +1836,7 @@
   {
     "name": "Isle of Man",
     "officialName": "The Isle of Man",
-    "countryCode": "+44",
+    "dialingCode": "+44",
     "ISOCodes": {
       "alpha2Code": "IM",
       "alpha3Code": "IMN",
@@ -1853,7 +1853,7 @@
   {
     "name": "Israel",
     "officialName": "The State of Israel",
-    "countryCode": "+972",
+    "dialingCode": "+972",
     "ISOCodes": {
       "alpha2Code": "IL",
       "alpha3Code": "ISR",
@@ -1870,7 +1870,7 @@
   {
     "name": "Italy",
     "officialName": "The Italian Republic",
-    "countryCode": "+39",
+    "dialingCode": "+39",
     "ISOCodes": {
       "alpha2Code": "IT",
       "alpha3Code": "ITA",
@@ -1887,7 +1887,7 @@
   {
     "name": "Jamaica",
     "officialName": "Jamaica",
-    "countryCode": "+1-876",
+    "dialingCode": "+1-876",
     "ISOCodes": {
       "alpha2Code": "JM",
       "alpha3Code": "JAM",
@@ -1904,7 +1904,7 @@
   {
     "name": "Japan",
     "officialName": "Japan",
-    "countryCode": "+81",
+    "dialingCode": "+81",
     "ISOCodes": {
       "alpha2Code": "JP",
       "alpha3Code": "JPN",
@@ -1921,7 +1921,7 @@
   {
     "name": "Jersey",
     "officialName": "The Bailiwick of Jersey",
-    "countryCode": "+44-1534",
+    "dialingCode": "+44-1534",
     "ISOCodes": {
       "alpha2Code": "JE",
       "alpha3Code": "JEY",
@@ -1938,7 +1938,7 @@
   {
     "name": "Jordan",
     "officialName": "The Hashemite Kingdom of Jordan",
-    "countryCode": "+962",
+    "dialingCode": "+962",
     "ISOCodes": {
       "alpha2Code": "JO",
       "alpha3Code": "JOR",
@@ -1955,7 +1955,7 @@
   {
     "name": "Kazakhstan",
     "officialName": "The Republic of Kazakhstan",
-    "countryCode": "+7",
+    "dialingCode": "+7",
     "ISOCodes": {
       "alpha2Code": "KZ",
       "alpha3Code": "KAZ",
@@ -1972,7 +1972,7 @@
   {
     "name": "Kenya",
     "officialName": "The Republic of Kenya",
-    "countryCode": "+254",
+    "dialingCode": "+254",
     "ISOCodes": {
       "alpha2Code": "KE",
       "alpha3Code": "KEN",
@@ -1989,7 +1989,7 @@
   {
     "name": "Kiribati",
     "officialName": "The Republic of Kiribati",
-    "countryCode": "+686",
+    "dialingCode": "+686",
     "ISOCodes": {
       "alpha2Code": "KI",
       "alpha3Code": "KIR",
@@ -2006,7 +2006,7 @@
   {
     "name": "Kuwait",
     "officialName": "The State of Kuwait",
-    "countryCode": "+965",
+    "dialingCode": "+965",
     "ISOCodes": {
       "alpha2Code": "KW",
       "alpha3Code": "KWT",
@@ -2023,7 +2023,7 @@
   {
     "name": "Kyrgyzstan",
     "officialName": "The Kyrgyz Republic",
-    "countryCode": "+996",
+    "dialingCode": "+996",
     "ISOCodes": {
       "alpha2Code": "KG",
       "alpha3Code": "KGZ",
@@ -2040,7 +2040,7 @@
   {
     "name": "Laos",
     "officialName": "The Lao People's Democratic Republic",
-    "countryCode": "+856",
+    "dialingCode": "+856",
     "ISOCodes": {
       "alpha2Code": "LA",
       "alpha3Code": "LAO",
@@ -2057,7 +2057,7 @@
   {
     "name": "Latvia",
     "officialName": "The Republic of Latvia",
-    "countryCode": "+371",
+    "dialingCode": "+371",
     "ISOCodes": {
       "alpha2Code": "LV",
       "alpha3Code": "LVA",
@@ -2074,7 +2074,7 @@
   {
     "name": "Lebanon",
     "officialName": "The Lebanese Republic",
-    "countryCode": "+961",
+    "dialingCode": "+961",
     "ISOCodes": {
       "alpha2Code": "LB",
       "alpha3Code": "LBN",
@@ -2091,7 +2091,7 @@
   {
     "name": "Lesotho",
     "officialName": "The Kingdom of Lesotho",
-    "countryCode": "+266",
+    "dialingCode": "+266",
     "ISOCodes": {
       "alpha2Code": "LS",
       "alpha3Code": "LSO",
@@ -2108,7 +2108,7 @@
   {
     "name": "Liberia",
     "officialName": "The Republic of Liberia",
-    "countryCode": "+231",
+    "dialingCode": "+231",
     "ISOCodes": {
       "alpha2Code": "LR",
       "alpha3Code": "LBR",
@@ -2125,7 +2125,7 @@
   {
     "name": "Libya",
     "officialName": "The State of Libya",
-    "countryCode": "+218",
+    "dialingCode": "+218",
     "ISOCodes": {
       "alpha2Code": "LY",
       "alpha3Code": "LBY",
@@ -2142,7 +2142,7 @@
   {
     "name": "Liechtenstein",
     "officialName": "The Principality of Liechtenstein",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "LI",
       "alpha3Code": "LIE",
@@ -2159,7 +2159,7 @@
   {
     "name": "Lithuania",
     "officialName": "The Republic of Lithuania",
-    "countryCode": "+370",
+    "dialingCode": "+370",
     "ISOCodes": {
       "alpha2Code": "LT",
       "alpha3Code": "LTU",
@@ -2176,7 +2176,7 @@
   {
     "name": "Luxembourg",
     "officialName": "The Grand Duchy of Luxembourg",
-    "countryCode": "+352",
+    "dialingCode": "+352",
     "ISOCodes": {
       "alpha2Code": "LU",
       "alpha3Code": "LUX",
@@ -2191,9 +2191,383 @@
     "topLevelDomain": ".lu"
   },
   {
+    "name": "Macao",
+    "officialName": "The Macao Special Administrative Region of China",
+    "dialingCode": "+853",
+    "ISOCodes": {
+      "alpha2Code": "MO",
+      "alpha3Code": "MAC",
+      "numeric": "446"
+    },
+    "currency": {
+      "name": "Macanese Pataca",
+      "ISOCode": "MOP"
+    },
+    "sovereignty": "China",
+    "continent": ["Asia"],
+    "topLevelDomain": ".mo"
+  },
+  {
+    "name": "Madagascar",
+    "officialName": "The Republic of Madagascar",
+    "dialingCode": "+261",
+    "ISOCodes": {
+      "alpha2Code": "MG",
+      "alpha3Code": "MDG",
+      "numeric": "450"
+    },
+    "currency": {
+      "name": "Malagasy Ariary ",
+      "ISOCode": "MGA"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".mg"
+  },
+  {
+    "name": "Malawi",
+    "officialName": "The Republic of Malawi",
+    "dialingCode": "+265",
+    "ISOCodes": {
+      "alpha2Code": "MW",
+      "alpha3Code": "MWI",
+      "numeric": "454"
+    },
+    "currency": {
+      "name": "Malawian Kwacha ",
+      "ISOCode": "MWK"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".mw"
+  },
+  {
+    "name": "Malaysia",
+    "officialName": "Malaysia",
+    "dialingCode": "+60",
+    "ISOCodes": {
+      "alpha2Code": "MY",
+      "alpha3Code": "MYS",
+      "numeric": "458"
+    },
+    "currency": {
+      "name": "Malaysia Ringgit",
+      "ISOCode": "MYR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".my"
+  },
+  {
+    "name": "Maldives",
+    "officialName": "The Republic of Maldives",
+    "dialingCode": "+960",
+    "ISOCodes": {
+      "alpha2Code": "MV",
+      "alpha3Code": "MDV",
+      "numeric": "462"
+    },
+    "currency": {
+      "name": "Maldivian Rufiyaa",
+      "ISOCode": "MVR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".mv"
+  },
+  {
+    "name": "Mali",
+    "officialName": "The Republic of Mali",
+    "dialingCode": "+223",
+    "ISOCodes": {
+      "alpha2Code": "ML",
+      "alpha3Code": "MLI",
+      "numeric": "466"
+    },
+    "currency": {
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ml"
+  },
+  {
+    "name": "Malta",
+    "officialName": "The Republic of Malta",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "MT",
+      "alpha3Code": "MLT",
+      "numeric": "470"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".mt"
+  },
+  {
+    "name": "Marshall Islands",
+    "officialName": "The Republic of the Marshall Islands",
+    "dialingCode": "+692",
+    "ISOCodes": {
+      "alpha2Code": "MH",
+      "alpha3Code": "MHL",
+      "numeric": "584"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".mh"
+  },
+  {
+    "name": "Martinique",
+    "officialName": "Martinique",
+    "dialingCode": "+596",
+    "ISOCodes": {
+      "alpha2Code": "MQ",
+      "alpha3Code": "MTQ",
+      "numeric": "474"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "France",
+    "continent": ["North America"],
+    "topLevelDomain": ".mq"
+  },
+  {
+    "name": "Mauritania",
+    "officialName": "The Islamic Republic of Mauritania",
+    "dialingCode": "+222",
+    "ISOCodes": {
+      "alpha2Code": "MR",
+      "alpha3Code": "MRT",
+      "numeric": "478"
+    },
+    "currency": {
+      "name": "Mauritanian Ouguiya",
+      "ISOCode": "MRO"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".mr"
+  },
+  {
+    "name": "Mauritius",
+    "officialName": "The Republic of Mauritius",
+    "dialingCode": "+230",
+    "ISOCodes": {
+      "alpha2Code": "MU",
+      "alpha3Code": "MUS",
+      "numeric": "480"
+    },
+    "currency": {
+      "name": "Mauritius Rupee",
+      "ISOCode": "MUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".mu"
+  },
+  {
+    "name": "Mayotte",
+    "officialName": "The Department of Mayotte",
+    "dialingCode": "+262",
+    "ISOCodes": {
+      "alpha2Code": "YT",
+      "alpha3Code": "MYT",
+      "numeric": "175"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "France",
+    "continent": ["Africa"],
+    "topLevelDomain": ".yt"
+  },
+  {
+    "name": "Mexico",
+    "officialName": "The United Mexican States",
+    "dialingCode": "+52",
+    "ISOCodes": {
+      "alpha2Code": "MX",
+      "alpha3Code": "MEX",
+      "numeric": "484"
+    },
+    "currency": {
+      "name": "Mexico",
+      "ISOCode": "MXN"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".mx"
+  },
+  {
+    "name": "Micronesia",
+    "officialName": "The Federated States of Micronesia",
+    "dialingCode": "+691",
+    "ISOCodes": {
+      "alpha2Code": "FM",
+      "alpha3Code": "FSM",
+      "numeric": "583"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".fm"
+  },
+  {
+    "name": "Moldova",
+    "officialName": "The Republic of Moldova",
+    "dialingCode": "+373",
+    "ISOCodes": {
+      "alpha2Code": "MD",
+      "alpha3Code": "MDA",
+      "numeric": "498"
+    },
+    "currency": {
+      "name": "Moldovan Leu ",
+      "ISOCode": "MDL"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".md"
+  },
+  {
+    "name": "Monaco",
+    "officialName": "The Principality of Monaco",
+    "dialingCode": "+377",
+    "ISOCodes": {
+      "alpha2Code": "MC",
+      "alpha3Code": "MCO",
+      "numeric": "492"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".mc"
+  },
+  {
+    "name": "Mongolia",
+    "officialName": "Mongolia",
+    "dialingCode": "+976",
+    "ISOCodes": {
+      "alpha2Code": "MN",
+      "alpha3Code": "MNG",
+      "numeric": "496"
+    },
+    "currency": {
+      "name": "Mongolia Tughrik",
+      "ISOCode": "MNT"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".mn"
+  },
+  {
+    "name": "Montenegro",
+    "officialName": "Montenegro",
+    "dialingCode": "+382",
+    "ISOCodes": {
+      "alpha2Code": "ME",
+      "alpha3Code": "MNE",
+      "numeric": "499"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".me"
+  },
+  {
+    "name": "Montserrat",
+    "officialName": "Montserrat",
+    "dialingCode": "+1",
+    "ISOCodes": {
+      "alpha2Code": "MS",
+      "alpha3Code": "MSR",
+      "numeric": "500"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
+    },
+    "sovereignty": "United Kingdom",
+    "continent": ["North America"],
+    "topLevelDomain": ".ms"
+  },
+  {
+    "name": "Morocco",
+    "officialName": "The Kingdom of Morocco",
+    "dialingCode": "+212",
+    "ISOCodes": {
+      "alpha2Code": "MA",
+      "alpha3Code": "MAR",
+      "numeric": "504"
+    },
+    "currency": {
+      "name": "Moroccan Dirham",
+      "ISOCode": "MAD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ma"
+  },
+  {
+    "name": "Mozambique",
+    "officialName": "The Republic of Mozambique",
+    "dialingCode": "+258",
+    "ISOCodes": {
+      "alpha2Code": "MZ",
+      "alpha3Code": "MOZ",
+      "numeric": "508"
+    },
+    "currency": {
+      "name": "Mozambique Metical ",
+      "ISOCode": "MZN"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".mz"
+  },
+  {
+    "name": "Myanmar",
+    "officialName": "The Republic of the Union of Myanmar",
+    "dialingCode": "+95",
+    "ISOCodes": {
+      "alpha2Code": "MM",
+      "alpha3Code": "MME",
+      "numeric": "104"
+    },
+    "currency": {
+      "name": "Myanmar Kyat",
+      "ISOCode": "MMK"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".mm"
+  },
+  {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2210,7 +2584,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2227,7 +2601,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2244,7 +2618,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2261,7 +2635,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2278,7 +2652,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2295,381 +2669,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2687,7 +2687,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2704,7 +2704,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2721,7 +2721,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2738,7 +2738,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2755,7 +2755,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2772,7 +2772,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2789,7 +2789,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2806,7 +2806,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2823,7 +2823,7 @@
   {
     "name": "",
     "officialName": "",
-    "countryCode": "",
+    "dialingCode": "",
     "ISOCodes": {
       "alpha2Code": "",
       "alpha3Code": "",
@@ -2840,7 +2840,7 @@
   {
     "name": "Timor-Leste",
     "officialName": "The Democratic Republic of Timor-Leste",
-    "countryCode": "+670",
+    "dialingCode": "+670",
     "ISOCodes": {
       "alpha2Code": "TL",
       "alpha3Code": "TLS",

@@ -874,7 +874,7 @@
       "numeric": "184"
     },
     "currency": {
-      "name": "New Zealand dollar",
+      "name": "New Zealand Dollar",
       "ISOCode": "NZD"
     },
     "sovereignty": "New Zealand",
@@ -2565,260 +2565,260 @@
     "topLevelDomain": ".mm"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Namibia",
+    "officialName": "The Republic of Namibia",
+    "dialingCode": "+264",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NA",
+      "alpha3Code": "NAM",
+      "numeric": "516"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Namibian Dollar",
+      "ISOCode": "NAD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".na"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Nauru",
+    "officialName": "The Republic of Nauru",
+    "dialingCode": "+674",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NR",
+      "alpha3Code": "NRU",
+      "numeric": "520"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Australian Dollar",
+      "ISOCode": "AUD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".nr"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Nepal",
+    "officialName": "The Federal Democratic Republic of Nepal",
+    "dialingCode": "+977",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NP",
+      "alpha3Code": "NPL",
+      "numeric": "524"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Nepalese Rupee",
+      "ISOCode": "NPR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".np"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Netherlands",
+    "officialName": "The Kingdom of the Netherlands",
+    "dialingCode": "+31",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NL",
+      "alpha3Code": "NLD",
+      "numeric": "528"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".nl"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "New Caledonia",
+    "officialName": "New Caledonia",
+    "dialingCode": "+687",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NC",
+      "alpha3Code": "NCL",
+      "numeric": "540"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "CFP Franc",
+      "ISOCode": "XPF"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "France",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".nc"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "New Zealand",
+    "officialName": "New Zealand",
+    "dialingCode": "+64",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NZ",
+      "alpha3Code": "NZL",
+      "numeric": "554"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "New Zealand Dollar",
+      "ISOCode": "NZD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".nz"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Nicaragua",
+    "officialName": "The Republic of Nicaragua",
+    "dialingCode": "+505",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NI",
+      "alpha3Code": "NIC",
+      "numeric": "558"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Nicaraguan Córdoba",
+      "ISOCode": "NIO"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".ni"
   },
 
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Niger",
+    "officialName": "The Republic of the Niger",
+    "dialingCode": "+227",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NE",
+      "alpha3Code": "NER",
+      "numeric": "562"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ne"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Nigeria",
+    "officialName": "The Federal Republic of Nigeria",
+    "dialingCode": "+234",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NG",
+      "alpha3Code": "NGA",
+      "numeric": "566"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Nigerian Naira",
+      "ISOCode": "NGN"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ng"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Niue",
+    "officialName": "Niue",
+    "dialingCode": "+683",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NU",
+      "alpha3Code": "NIU",
+      "numeric": "570"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "New Zealand Dollar",
+      "ISOCode": "NZD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "New Zealand",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".nu"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Norfolk Island",
+    "officialName": "The Territory of Norfolk Island",
+    "dialingCode": "+672",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NF",
+      "alpha3Code": "NFK",
+      "numeric": "574"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Australian Dollar",
+      "ISOCode": "AUD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "Australia",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".nf"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "North Korea",
+    "officialName": "The Democratic People's Republic of Korea",
+    "dialingCode": "+850",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "KP",
+      "alpha3Code": "PRK",
+      "numeric": "408"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "North Korean Won",
+      "ISOCode": "KPW"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".kp"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "North Macedonia",
+    "officialName": "The Republic of North Macedonia",
+    "dialingCode": "+389",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "MK",
+      "alpha3Code": "MKD",
+      "numeric": "807"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Macedonian Denar",
+      "ISOCode": "MKD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".mk"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Northern Mariana Islands",
+    "officialName": "The Commonwealth of the Northern Mariana Islands",
+    "dialingCode": "+1-670",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "MP",
+      "alpha3Code": "MNP",
+      "numeric": "580"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United States Dollar",
+      "ISOCode": "USD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "United States",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".mp"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Norway",
+    "officialName": "The Kingdom of Norway",
+    "dialingCode": "+47",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "NO",
+      "alpha3Code": "NOR",
+      "numeric": "578"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Norwegian Krone",
+      "ISOCode": "NOK"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".no"
   },
   {
     "name": "",

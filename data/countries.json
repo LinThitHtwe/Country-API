@@ -2821,6 +2821,1065 @@
     "topLevelDomain": ".no"
   },
   {
+    "name": "Oman",
+    "officialName": "The Sultanate of Oman",
+    "dialingCode": "+968",
+    "ISOCodes": {
+      "alpha2Code": "OM",
+      "alpha3Code": "OMN",
+      "numeric": "512"
+    },
+    "currency": {
+      "name": "Oman Rial",
+      "ISOCode": "OMR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".om"
+  },
+  {
+    "name": "Pakistan",
+    "officialName": "The Islamic Republic of Pakistan",
+    "dialingCode": "+92",
+    "ISOCodes": {
+      "alpha2Code": "PK",
+      "alpha3Code": "PAK",
+      "numeric": "586"
+    },
+    "currency": {
+      "name": "Pakistan Rupee ",
+      "ISOCode": "PKR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".pk"
+  },
+  {
+    "name": "Palau",
+    "officialName": "The Republic of Palau",
+    "dialingCode": "+680",
+    "ISOCodes": {
+      "alpha2Code": "PW",
+      "alpha3Code": "PLW",
+      "numeric": "585"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".pw"
+  },
+  {
+    "name": "Palestine",
+    "officialName": "The State of Palestine",
+    "dialingCode": "+970",
+    "ISOCodes": {
+      "alpha2Code": "PS",
+      "alpha3Code": "PSE",
+      "numeric": "275"
+    },
+    "currency": {
+      "name": "Israel Shekel",
+      "ISOCode": "ILS"
+    },
+    "sovereignty": "UN observer",
+    "continent": ["Asia"],
+    "topLevelDomain": ".ps"
+  },
+  {
+    "name": "Panama",
+    "officialName": "The Republic of Panamá",
+    "dialingCode": "+507",
+    "ISOCodes": {
+      "alpha2Code": "PA",
+      "alpha3Code": "PAN",
+      "numeric": "591"
+    },
+    "currency": {
+      "name": "Panama Balboa ",
+      "ISOCode": "PAB"
+    },
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".pa"
+  },
+  {
+    "name": "Papua New Guinea",
+    "officialName": "The Independent State of Papua New Guinea",
+    "dialingCode": "+675",
+    "ISOCodes": {
+      "alpha2Code": "PG",
+      "alpha3Code": "PNG",
+      "numeric": "598"
+    },
+    "currency": {
+      "name": "Papua New Guinean Kina",
+      "ISOCode": "PGK"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".pg"
+  },
+  {
+    "name": "Paraguay",
+    "officialName": "The Republic of Paraguay",
+    "dialingCode": "+595",
+    "ISOCodes": {
+      "alpha2Code": "PY",
+      "alpha3Code": "PRY",
+      "numeric": "600"
+    },
+    "currency": {
+      "name": "Paraguay Guarani",
+      "ISOCode": "PYG"
+    },
+    "sovereignty": "UN member",
+    "continent": ["South America"],
+    "topLevelDomain": ".py"
+  },
+  {
+    "name": "Peru",
+    "officialName": "The Republic of Perú",
+    "dialingCode": "+51",
+    "ISOCodes": {
+      "alpha2Code": "PE",
+      "alpha3Code": "PER",
+      "numeric": "604"
+    },
+    "currency": {
+      "name": "Peru Nuevo Sol",
+      "ISOCode": "PEN"
+    },
+    "sovereignty": "UN member",
+    "continent": ["South America"],
+    "topLevelDomain": ".pe"
+  },
+  {
+    "name": "Philippines",
+    "officialName": "The Republic of the Philippines",
+    "dialingCode": "+63",
+    "ISOCodes": {
+      "alpha2Code": "PH",
+      "alpha3Code": "PHL",
+      "numeric": "608"
+    },
+    "currency": {
+      "name": "Philippines Peso ",
+      "ISOCode": "PHP"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".ph"
+  },
+  {
+    "name": "Pitcairn",
+    "officialName": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "PN",
+      "alpha3Code": "PCN",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "ISOCode": "NZD"
+    },
+    "sovereignty": "United Kingdom",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".pn"
+  },
+  {
+    "name": "Poland",
+    "officialName": "The Republic of Poland",
+    "dialingCode": "+48",
+    "ISOCodes": {
+      "alpha2Code": "PL",
+      "alpha3Code": "POL",
+      "numeric": "616"
+    },
+    "currency": {
+      "name": "Poland Zloty",
+      "ISOCode": "PLN"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".pl"
+  },
+  {
+    "name": "Portugal",
+    "officialName": "The Portuguese Republic",
+    "dialingCode": "+351",
+    "ISOCodes": {
+      "alpha2Code": "PT",
+      "alpha3Code": "PRT",
+      "numeric": "620"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".pt"
+  },
+  {
+    "name": "Puerto Rico",
+    "officialName": "The Commonwealth of Puerto Rico",
+    "dialingCode": "+1",
+    "ISOCodes": {
+      "alpha2Code": "PR",
+      "alpha3Code": "PRI",
+      "numeric": "630"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "United States",
+    "continent": ["North America"],
+    "topLevelDomain": ".pr"
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
     "name": "",
     "officialName": "",
     "dialingCode": "",

@@ -3042,363 +3042,363 @@
     "topLevelDomain": ".pr"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Qatar",
+    "officialName": "The State of Qatar",
+    "dialingCode": "+974",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "QA",
+      "alpha3Code": "QAT",
+      "numeric": "634"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Qatar Riyal ",
+      "ISOCode": "QAR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".qa"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Réunion",
+    "officialName": "Réunion",
+    "dialingCode": "+262",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "RE",
+      "alpha3Code": "REU",
+      "numeric": "638"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "France",
+    "continent": ["Africa"],
+    "topLevelDomain": ".re"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Romania",
+    "officialName": "Romania",
+    "dialingCode": "+40",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
+      "alpha2Code": "RO",
+      "alpha3Code": "ROU",
       "numeric": ""
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Romania New Leu ",
+      "ISOCode": "RON"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".ro"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Russia",
+    "officialName": "The Russian Federation",
+    "dialingCode": "+7",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "RU",
+      "alpha3Code": "RUS",
+      "numeric": "643"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Russia Ruble",
+      "ISOCode": "RUB"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe", "Asia"],
+    "topLevelDomain": ".ru"
   },
   {
-    "name": "",
-    "officialName": "",
+    "name": "Rwanda",
+    "officialName": "The Republic of Rwanda",
     "dialingCode": "",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "RW",
+      "alpha3Code": "RWA",
+      "numeric": "646"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Rwandan Franc ",
+      "ISOCode": "RWF"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".rw"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Barthélemy",
+    "officialName": "The Collectivity of Saint-Barthélemy",
+    "dialingCode": "+590",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "BL",
+      "alpha3Code": "BLM",
+      "numeric": "652"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "France",
+    "continent": ["North America"],
+    "topLevelDomain": ".bl"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "officialName": "Saint Helena, Ascension and Tristan da Cunha",
+    "dialingCode": "+290",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SH",
+      "alpha3Code": "SHN",
+      "numeric": "654"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Saint Helena Pound ",
+      "ISOCode": "SHP"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "United Kingdom",
+    "continent": ["Africa"],
+    "topLevelDomain": ".sh"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Kitts and Nevis",
+    "officialName": "Saint Kitts and Nevis",
+    "dialingCode": "+1-869",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "KN",
+      "alpha3Code": "KNA",
+      "numeric": "659"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".kn"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Lucia",
+    "officialName": "Saint Lucia",
+    "dialingCode": "+1-758",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "LC",
+      "alpha3Code": "LCA",
+      "numeric": "662"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".lc"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Martin",
+    "officialName": "The Collectivity of Saint-Martin",
+    "dialingCode": "+590",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "MF",
+      "alpha3Code": "MAF",
+      "numeric": "663"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "France",
+    "continent": ["North America"],
+    "topLevelDomain": ".mf"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Pierre and Miquelon",
+    "officialName": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+    "dialingCode": "+508",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "PM",
+      "alpha3Code": "SPM",
+      "numeric": "666"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "France",
+    "continent": ["North America"],
+    "topLevelDomain": ".pm"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saint Vincent and the Grenadines",
+    "officialName": "Saint Vincent and the Grenadines",
+    "dialingCode": "+1-784",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "VC",
+      "alpha3Code": "VCT",
+      "numeric": "670"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "East Caribbean Dollar",
+      "ISOCode": "XCD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".vc"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Samoa",
+    "officialName": "The Independent State of Samoa",
+    "dialingCode": "+685",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "WS",
+      "alpha3Code": "WSM",
+      "numeric": "882"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Samoan Tala",
+      "ISOCode": "WST"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".ws"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "San Marino",
+    "officialName": "The Republic of San Marino",
+    "dialingCode": "+378",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SM",
+      "alpha3Code": "SMR",
+      "numeric": "674"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".sm"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Sao Tome and Principe",
+    "officialName": "The Democratic Republic of São Tomé and Príncipe",
+    "dialingCode": "+239",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "ST",
+      "alpha3Code": "STP",
+      "numeric": "678"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "São Tomé and Príncipe dobra",
+      "ISOCode": "STD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".st"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Saudi Arabia",
+    "officialName": "The Kingdom of Saudi Arabia",
+    "dialingCode": "+966",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SA",
+      "alpha3Code": "SAU",
+      "numeric": "682"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Saudi Arabia Riyal",
+      "ISOCode": "SAR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".sa"
   },
 
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Senegal",
+    "officialName": "The Republic of Senegal",
+    "dialingCode": "+221",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SN",
+      "alpha3Code": "SEN",
+      "numeric": "686"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".sn"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Serbia",
+    "officialName": "The Republic of Serbia",
+    "dialingCode": "+381",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "RS",
+      "alpha3Code": "SRB",
+      "numeric": "688"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Serbian Dinar",
+      "ISOCode": "SRD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".rs"
+  },
+
+  {
+    "name": "Seychelles",
+    "officialName": "The Republic of Seychelles",
+    "dialingCode": "+248",
+    "ISOCodes": {
+      "alpha2Code": "SC",
+      "alpha3Code": "SYC",
+      "numeric": "690"
+    },
+    "currency": {
+      "name": "Seychellois Rupee",
+      "ISOCode": "SCR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".sc"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Sierra Leone",
+    "officialName": "The Republic of Sierra Leone",
+    "dialingCode": "+232",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SL",
+      "alpha3Code": "SLE",
+      "numeric": "694"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Sierra Leonean Leone ",
+      "ISOCode": "SLL"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".sl"
+  },
+  {
+    "name": "Singapore",
+    "officialName": "The Republic of Singapore",
+    "dialingCode": "+65",
+    "ISOCodes": {
+      "alpha2Code": "SG",
+      "alpha3Code": "SGP",
+      "numeric": "702"
+    },
+    "currency": {
+      "name": "Singapore Dollar",
+      "ISOCode": "SGD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".sg"
   },
   {
     "name": "",

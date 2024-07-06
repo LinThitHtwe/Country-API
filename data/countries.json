@@ -3401,295 +3401,295 @@
     "topLevelDomain": ".sg"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Sint Maarten",
+    "officialName": "Sint Maarten",
+    "dialingCode": "+1-721",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SX",
+      "alpha3Code": "SXM",
+      "numeric": "534"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Netherlands Antillian Guilder",
+      "ISOCode": "NAF"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "Netherlands",
+    "continent": ["North America"],
+    "topLevelDomain": ".sx"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Slovakia",
+    "officialName": "Slovak Republic",
+    "dialingCode": "+421",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SK",
+      "alpha3Code": "SVK",
+      "numeric": "703"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".sk"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Slovenia",
+    "officialName": "Republic of Slovenia",
+    "dialingCode": "+386",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SI",
+      "alpha3Code": "SVN",
+      "numeric": "705"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Euro",
+      "ISOCode": "EUR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".si"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Solomon Islands",
+    "officialName": "Solomon Islands",
+    "dialingCode": "+677",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SB",
+      "alpha3Code": "SLB",
+      "numeric": "090"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Solomon Islands Dollar",
+      "ISOCode": "SBD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".sb"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Somalia",
+    "officialName": "Federal Republic of Somalia",
+    "dialingCode": "+252",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SO",
+      "alpha3Code": "SOM",
+      "numeric": "706"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Somalia Shilling ",
+      "ISOCode": "SOS"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".so"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "South Africa",
+    "officialName": "Republic of South Africa",
+    "dialingCode": "+27",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "ZA",
+      "alpha3Code": "ZAF",
+      "numeric": "710"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "South Africa Rand",
+      "ISOCode": "ZAR"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".za"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "South Georgia and the South Sandwich Islands",
+    "officialName": "South Georgia and the South Sandwich Islands",
+    "dialingCode": "+500",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "GS",
+      "alpha3Code": "SGS",
+      "numeric": "239"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United Kingdom Pound",
+      "ISOCode": "GBP"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "United Kingdom",
+    "continent": ["Antarctica"],
+    "topLevelDomain": ".gs"
   },
 
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "South Korea",
+    "officialName": "Republic of Korea",
+    "dialingCode": "+82",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "KR",
+      "alpha3Code": "KOR",
+      "numeric": "410"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Korean Won",
+      "ISOCode": "KRW"
     },
-    "sovereignty": "",
-    "continent": [""],
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".kr"
+  },
+  {
+    "name": "South Sudan",
+    "officialName": "Republic of South Sudan",
+    "dialingCode": "+211",
+    "ISOCodes": {
+      "alpha2Code": "SS",
+      "alpha3Code": "SSD",
+      "numeric": "728"
+    },
+    "currency": {
+      "name": "South Sudanese Pound",
+      "ISOCode": "SSP"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ss"
+  },
+  {
+    "name": "Spain",
+    "officialName": "Kingdom of Spain",
+    "dialingCode": "+34",
+    "ISOCodes": {
+      "alpha2Code": "ES",
+      "alpha3Code": "ESP",
+      "numeric": "724"
+    },
+    "currency": {
+      "name": "Euro",
+      "ISOCode": "EUR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".es"
+  },
+  {
+    "name": "Sri Lanka",
+    "officialName": "Democratic Socialist Republic of Sri Lanka",
+    "dialingCode": "+94",
+    "ISOCodes": {
+      "alpha2Code": "LK",
+      "alpha3Code": "LKA",
+      "numeric": "144"
+    },
+    "currency": {
+      "name": "Sri Lanka Rupee",
+      "ISOCode": "LKR"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".lk"
+  },
+  {
+    "name": "Sudan",
+    "officialName": "Republic of the Sudan",
+    "dialingCode": "+249",
+    "ISOCodes": {
+      "alpha2Code": "SD",
+      "alpha3Code": "SDN",
+      "numeric": "729"
+    },
+    "currency": {
+      "name": "Sudanese Pound",
+      "ISOCode": "SDG"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".sd"
+  },
+  {
+    "name": "Suriname",
+    "officialName": "Republic of Suriname",
+    "dialingCode": "+597",
+    "ISOCodes": {
+      "alpha2Code": "SR",
+      "alpha3Code": "SUR",
+      "numeric": "740"
+    },
+    "currency": {
+      "name": "Suriname Dollar",
+      "ISOCode": "SRD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["South America"],
+    "topLevelDomain": ".sr"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "officialName": "Svalbard and Jan Mayen",
+    "dialingCode": "+47",
+    "ISOCodes": {
+      "alpha2Code": "SJ",
+      "alpha3Code": "SJM",
+      "numeric": "744"
+    },
+    "currency": {
+      "name": "Norwegian Krone",
+      "ISOCode": "NOK"
+    },
+    "sovereignty": "Norway",
+    "continent": ["Europe"],
     "topLevelDomain": ""
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Sweden",
+    "officialName": "Kingdom of Sweden",
+    "dialingCode": "+46",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "SE",
+      "alpha3Code": "SWE",
+      "numeric": "752"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Sweden Krona",
+      "ISOCode": "SEK"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".se"
+  },
+
+  {
+    "name": "Switzerland",
+    "officialName": "Swiss Confederation",
+    "dialingCode": "+41",
+    "ISOCodes": {
+      "alpha2Code": "CH",
+      "alpha3Code": "CHE",
+      "numeric": "756"
+    },
+    "currency": {
+      "name": "Switzerland Franc",
+      "ISOCode": "CHF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".ch"
+  },
+  {
+    "name": "Syria",
+    "officialName": "Syrian Arab Republic",
+    "dialingCode": "+963",
+    "ISOCodes": {
+      "alpha2Code": "SY",
+      "alpha3Code": "SYR",
+      "numeric": "760"
+    },
+    "currency": {
+      "name": "Syria Pound",
+      "ISOCode": "SYP"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".sy"
   },
   {
     "name": "",

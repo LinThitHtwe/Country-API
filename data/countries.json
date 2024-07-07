@@ -3692,6 +3692,450 @@
     "topLevelDomain": ".sy"
   },
   {
+    "name": "Taiwan",
+    "officialName": "Republic of China",
+    "dialingCode": "+886",
+    "ISOCodes": {
+      "alpha2Code": "TW",
+      "alpha3Code": "TWN",
+      "numeric": "158"
+    },
+    "currency": {
+      "name": "Taiwan New Dollar ",
+      "ISOCode": "TWD"
+    },
+    "sovereignty": "Disputed",
+    "continent": ["Asia"],
+    "topLevelDomain": ".tw"
+  },
+  {
+    "name": "Tajikistan",
+    "officialName": "Republic of Tajikistan",
+    "dialingCode": "+992",
+    "ISOCodes": {
+      "alpha2Code": "TJ",
+      "alpha3Code": "TJK",
+      "numeric": "762"
+    },
+    "currency": {
+      "name": "Tajikistani Somoni ",
+      "ISOCode": "TJS"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".tj"
+  },
+  {
+    "name": "Tanzania",
+    "officialName": "United Republic of Tanzania",
+    "dialingCode": "+255",
+    "ISOCodes": {
+      "alpha2Code": "TZ",
+      "alpha3Code": "TZA",
+      "numeric": "834"
+    },
+    "currency": {
+      "name": "Tanzanian Shilling",
+      "ISOCode": "TZS"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".tx"
+  },
+  {
+    "name": "Thailand",
+    "officialName": "Kingdom of Thailand",
+    "dialingCode": "+66",
+    "ISOCodes": {
+      "alpha2Code": "TH",
+      "alpha3Code": "THA",
+      "numeric": "764"
+    },
+    "currency": {
+      "name": "Thailand Baht ",
+      "ISOCode": "THB"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".th"
+  },
+  {
+    "name": "Timor-Leste",
+    "officialName": "The Democratic Republic of Timor-Leste",
+    "dialingCode": "+670",
+    "ISOCodes": {
+      "alpha2Code": "TL",
+      "alpha3Code": "TLS",
+      "numeric": "626"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".tl"
+  },
+  {
+    "name": "Togo",
+    "officialName": "Togolese Republic",
+    "dialingCode": "+228",
+    "ISOCodes": {
+      "alpha2Code": "TG",
+      "alpha3Code": "TGO",
+      "numeric": "768"
+    },
+    "currency": {
+      "name": "West African CFA franc",
+      "ISOCode": "XOF"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".tg"
+  },
+
+  {
+    "name": "Tokelau",
+    "officialName": "Tokelau",
+    "dialingCode": "+690",
+    "ISOCodes": {
+      "alpha2Code": "TK",
+      "alpha3Code": "TKL",
+      "numeric": "772"
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "ISOCode": "NZD"
+    },
+    "sovereignty": "New Zealand",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".tk"
+  },
+  {
+    "name": "Tonga",
+    "officialName": "Kingdom of Tonga",
+    "dialingCode": "+676",
+    "ISOCodes": {
+      "alpha2Code": "TO",
+      "alpha3Code": "TON",
+      "numeric": "776"
+    },
+    "currency": {
+      "name": "Tongan Pa'anga",
+      "ISOCode": "TOP"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".to"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "officialName": "Republic of Trinidad and Tobago",
+    "dialingCode": "+868",
+    "ISOCodes": {
+      "alpha2Code": "TT",
+      "alpha3Code": "TTO",
+      "numeric": "780"
+    },
+    "currency": {
+      "name": "Trinidad and Tobago Dollar",
+      "ISOCode": "TTD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["South America"],
+    "topLevelDomain": ".tt"
+  },
+  {
+    "name": "Tunisia",
+    "officialName": "Republic of Tunisia",
+    "dialingCode": "+216",
+    "ISOCodes": {
+      "alpha2Code": "TN",
+      "alpha3Code": "TUN",
+      "numeric": "788"
+    },
+    "currency": {
+      "name": "Tunisian Dinar",
+      "ISOCode": "TND"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".tn"
+  },
+  {
+    "name": "Türkiye",
+    "officialName": "Republic of Türkiye",
+    "dialingCode": "+90",
+    "ISOCodes": {
+      "alpha2Code": "TR",
+      "alpha3Code": "TUR",
+      "numeric": "792"
+    },
+    "currency": {
+      "name": "Turkey Lira",
+      "ISOCode": "TRY"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".tr"
+  },
+  {
+    "name": "Turkmenistan",
+    "officialName": "Turkmenistan",
+    "dialingCode": "+993",
+    "ISOCodes": {
+      "alpha2Code": "TM",
+      "alpha3Code": "TKM",
+      "numeric": "795"
+    },
+    "currency": {
+      "name": "Turkmenistani Manat ",
+      "ISOCode": "TMT"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".tm"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "officialName": "Turks and Caicos Islands",
+    "dialingCode": "+1",
+    "ISOCodes": {
+      "alpha2Code": "TC",
+      "alpha3Code": "TCA",
+      "numeric": "796"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "United Kingdom",
+    "continent": ["North America"],
+    "topLevelDomain": ".tc"
+  },
+  {
+    "name": "Tuvalu",
+    "officialName": "Tuvalu",
+    "dialingCode": "+688",
+    "ISOCodes": {
+      "alpha2Code": "TV",
+      "alpha3Code": "TUV",
+      "numeric": "798"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "ISOCode": "AUD"
+    },
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".tv"
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
+    "name": "",
+    "officialName": "",
+    "dialingCode": "",
+    "ISOCodes": {
+      "alpha2Code": "",
+      "alpha3Code": "",
+      "numeric": ""
+    },
+    "currency": {
+      "name": "",
+      "ISOCode": ""
+    },
+    "sovereignty": "",
+    "continent": [""],
+    "topLevelDomain": ""
+  },
+  {
     "name": "",
     "officialName": "",
     "dialingCode": "",
@@ -3878,39 +4322,5 @@
     "sovereignty": "",
     "continent": [""],
     "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "Timor-Leste",
-    "officialName": "The Democratic Republic of Timor-Leste",
-    "dialingCode": "+670",
-    "ISOCodes": {
-      "alpha2Code": "TL",
-      "alpha3Code": "TLS",
-      "numeric": "626"
-    },
-    "currency": {
-      "name": "United States Dollar",
-      "ISOCode": "USD"
-    },
-    "sovereignty": "UN member",
-    "continent": ["Asia"],
-    "topLevelDomain": ".tl"
   }
 ]

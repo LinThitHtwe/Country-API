@@ -4068,89 +4068,89 @@
     "topLevelDomain": ".uz"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Vanuatu",
+    "officialName": "Republic of Vanuatu",
+    "dialingCode": "+678",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "VU",
+      "alpha3Code": "VUT",
+      "numeric": "548"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Vanuatu Vatu",
+      "ISOCode": "VUV"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".vu"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Venezuela",
+    "officialName": "Bolivarian Republic of Venezuela",
+    "dialingCode": "+58",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "VE",
+      "alpha3Code": "VEN",
+      "numeric": "862"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Venezuela Bolivar",
+      "ISOCode": "VEF"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["South America"],
+    "topLevelDomain": ".ve"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Vietnam",
+    "officialName": "Socialist Republic of Viet Nam",
+    "dialingCode": "+84",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "VN",
+      "alpha3Code": "VNM",
+      "numeric": "704"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Viet Nam Dong",
+      "ISOCode": "VND"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".vn"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Virgin Islands (British)",
+    "officialName": "Virgin Islands",
+    "dialingCode": "+1",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "VG",
+      "alpha3Code": "VGB",
+      "numeric": "092"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United States Dollar",
+      "ISOCode": "USD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "United Kingdom",
+    "continent": ["North America"],
+    "topLevelDomain": ".vg"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Virgin Islands (U.S.)",
+    "officialName": "Virgin Islands of the United States",
+    "dialingCode": "+1",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "VI",
+      "alpha3Code": "VIR",
+      "numeric": "850"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United States Dollar",
+      "ISOCode": "USD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "United States",
+    "continent": ["North America"],
+    "topLevelDomain": ".vi"
   },
   {
     "name": "",

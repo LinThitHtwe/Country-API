@@ -4153,191 +4153,88 @@
     "topLevelDomain": ".vi"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Wallis and Futuna",
+    "officialName": "Territory of the Wallis and Futuna Islands",
+    "dialingCode": "+681",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "WF",
+      "alpha3Code": "WLF",
+      "numeric": "876"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "CFP Franc",
+      "ISOCode": "XPF"
     },
-    "sovereignty": "",
-    "continent": [""],
+    "sovereignty": "France",
+    "continent": ["Oceania"],
+    "topLevelDomain": ".wf"
+  },
+  {
+    "name": "Western Sahara",
+    "officialName": "Sahrawi Arab Democratic Republic",
+    "dialingCode": "+212",
+    "ISOCodes": {
+      "alpha2Code": "EH",
+      "alpha3Code": "ESH",
+      "numeric": "732"
+    },
+    "currency": {
+      "name": "Moroccan Dirham",
+      "ISOCode": "MAD"
+    },
+    "sovereignty": "Disputed",
+    "continent": ["Africa"],
     "topLevelDomain": ""
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Yemen",
+    "officialName": "Republic of Yemen",
+    "dialingCode": "+967",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "YE",
+      "alpha3Code": "YEM",
+      "numeric": "887"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Yemen Rial",
+      "ISOCode": "YER"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".ye"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Zambia",
+    "officialName": "Republic of Zambia",
+    "dialingCode": "+260",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "ZM",
+      "alpha3Code": "ZMB",
+      "numeric": "894"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Zambian Kwacha",
+      "ISOCode": "ZMW"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".zm"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Zimbabwe",
+    "officialName": "Republic of Zimbabwe",
+    "dialingCode": "+263",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "ZW",
+      "alpha3Code": "ZWE",
+      "numeric": "716"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Zimbabwean Dollar",
+      "ISOCode": "ZWL"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
-  },
-  {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
-    "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
-    },
-    "currency": {
-      "name": "",
-      "ISOCode": ""
-    },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".zw"
   }
 ]

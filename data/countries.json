@@ -3931,124 +3931,141 @@
     "topLevelDomain": ".tv"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Uganda",
+    "officialName": "Republic of Uganda",
+    "dialingCode": "+256",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "UG",
+      "alpha3Code": "UGA",
+      "numeric": "800"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Ugandan Shilling",
+      "ISOCode": "UGX"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Africa"],
+    "topLevelDomain": ".ug"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Ukraine",
+    "officialName": "Ukraine",
+    "dialingCode": "+380",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "UA",
+      "alpha3Code": "UKR",
+      "numeric": "804"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Ukraine Hryvna ",
+      "ISOCode": "UAH"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".ua"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "United Arab Emirates",
+    "officialName": "United Arab Emirates",
+    "dialingCode": "+971",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "AE",
+      "alpha3Code": "ARE",
+      "numeric": "784"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United Arab Emirates Dirham",
+      "ISOCode": "AED"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".ae"
   },
 
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "United Kingdom",
+    "officialName": "United Kingdom of Great Britain and Northern Ireland",
+    "dialingCode": "+44",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
+      "alpha2Code": "GB",
+      "alpha3Code": "GBR",
       "numeric": ""
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United Kingdom Pound",
+      "ISOCode": "GBP"
     },
-    "sovereignty": "",
-    "continent": [""],
+    "sovereignty": "UN member",
+    "continent": ["Europe"],
+    "topLevelDomain": ".uk"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "officialName": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",
+    "dialingCode": "+1",
+    "ISOCodes": {
+      "alpha2Code": "UM",
+      "alpha3Code": "UMI",
+      "numeric": "581"
+    },
+    "currency": {
+      "name": "United States Dollar",
+      "ISOCode": "USD"
+    },
+    "sovereignty": "United States",
+    "continent": ["North America"],
     "topLevelDomain": ""
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "United States of America",
+    "officialName": "United States of America",
+    "dialingCode": "+1",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "US",
+      "alpha3Code": "USA",
+      "numeric": "840"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "United States Dollar",
+      "ISOCode": "USD"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["North America"],
+    "topLevelDomain": ".us"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Uruguay",
+    "officialName": "Oriental Republic of Uruguay",
+    "dialingCode": "+598",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "UY",
+      "alpha3Code": "URY",
+      "numeric": "858"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Uruguay Peso",
+      "ISOCode": "UYU"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["South America"],
+    "topLevelDomain": ".uy"
   },
   {
-    "name": "",
-    "officialName": "",
-    "dialingCode": "",
+    "name": "Uzbekistan",
+    "officialName": "Republic of Uzbekistan",
+    "dialingCode": "+998",
     "ISOCodes": {
-      "alpha2Code": "",
-      "alpha3Code": "",
-      "numeric": ""
+      "alpha2Code": "UZ",
+      "alpha3Code": "UZB",
+      "numeric": "860"
     },
     "currency": {
-      "name": "",
-      "ISOCode": ""
+      "name": "Uzbekistani Som",
+      "ISOCode": "UZS"
     },
-    "sovereignty": "",
-    "continent": [""],
-    "topLevelDomain": ""
+    "sovereignty": "UN member",
+    "continent": ["Asia"],
+    "topLevelDomain": ".uz"
   },
   {
     "name": "",

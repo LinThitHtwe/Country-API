@@ -1,5 +1,6 @@
-import { Request, Response } from "express";
+import { json, Request, Response } from "express";
 import { Country } from "../types/country";
+import { sovereigntyMapping } from "../constants/constant";
 const countries = require("../data/countries.json");
 
 const getAllCountries = (req: Request, res: Response) => {
@@ -7,72 +8,71 @@ const getAllCountries = (req: Request, res: Response) => {
 };
 
 const getCountriesByContinent = (req: Request, res: Response) => {
-  let continent = req.params.continentName.toLowerCase();
-
-  switch (continent) {
-    case "northamerica":
-      continent = "north america";
-      break;
-    case "southamerica":
-      continent = "south america";
-      break;
-    default:
-  }
+  const continentInput = req.params.continentName
+    .toLowerCase()
+    .replace(/\s+/g, "");
 
   const countriesByContinent = countries.filter((country: Country) => {
     if (Array.isArray(country.continent)) {
-      return country.continent.some((c) => c.toLowerCase() === continent);
+      return country.continent.some((c) => {
+        const standardizedContinent = c.toLowerCase().replace(/\s+/g, "");
+        return standardizedContinent === continentInput;
+      });
     }
+    return false;
   });
 
   res.json(countriesByContinent);
 };
 
 const getCountriesBySovereignty = (req: Request, res: Response) => {
-  let sovereignty = req.params.sovereignty.toLowerCase();
-  switch (sovereignty) {
-    case "un":
-      sovereignty = "un member";
-      break;
-    default:
-  }
-  const countriesBySovereignty = countries.filter(
-    (country: Country) => country.sovereignty.toLowerCase() === sovereignty
-  );
-  return res.json(countriesBySovereignty);
-};
+  let sovereigntyInput = req.params.sovereignty
+    .toLowerCase()
+    .replace(/\s+/g, "");
 
-const getCountryByCountryCode = (req: Request, res: Response) => {
-  const countryCode = req.params.countryCode.toUpperCase();
-  const countryByCountryCode = countries.find(
-    (country: Country) => country.countryCode === countryCode
-  );
-  return res.json(countryByCountryCode);
+  sovereigntyInput = sovereigntyMapping[sovereigntyInput] || sovereigntyInput;
+
+  const countriesBySovereignty = countries.filter((country: Country) => {
+    const standardizedSovereignty = country.sovereignty
+      .toLowerCase()
+      .replace(/\s+/g, "");
+    return standardizedSovereignty === sovereigntyInput;
+  });
+
+  return res.json(countriesBySovereignty);
 };
 
 const getCountryByISONumericCode = (req: Request, res: Response) => {
   const ISONumericCode = req.params.ISONumericCode;
+
+  if (ISONumericCode.length != 3) {
+    res.status(400).json({ message: "Invalid ISOCode Numeric length" });
+  }
+
   const countryByISONumericCode = countries.find(
     (country: Country) => country.ISOCodes.numeric === ISONumericCode
   );
   return res.json(countryByISONumericCode);
 };
 
-const getCountriesByISOCode = (req: Request, res: Response) => {
+const getCountryByISOCode = (req: Request, res: Response) => {
   const ISOCode = req.params.ISOCode.toUpperCase();
-  let countriesByISOCode;
-  if (ISOCode.length == 2) {
-    countriesByISOCode = countries.find(
-      (country: Country) =>
-        country.ISOCodes.alpha2Code.toUpperCase() === ISOCode
-    );
+
+  if (ISOCode.length !== 2 && ISOCode.length !== 3) {
+    return res.status(400).json({ message: "Invalid ISOCode length" });
   }
-  if (ISOCode.length == 3) {
-    countriesByISOCode = countries.find(
-      (country: Country) => country.ISOCodes.alpha3Code === ISOCode
-    );
+
+  const responseCountry = countries.find(
+    (country: Country) =>
+      country.ISOCodes.alpha2Code.toUpperCase() === ISOCode ||
+      country.ISOCodes.alpha3Code.toUpperCase() === ISOCode
+  );
+
+  if (!responseCountry) {
+    return res.status(404).json({ message: "Country not found" });
   }
-  return res.json(countriesByISOCode);
+
+  return res.json(responseCountry);
 };
 
 const getCountriesByCurrencyCode = (req: Request, res: Response) => {
@@ -83,19 +83,41 @@ const getCountriesByCurrencyCode = (req: Request, res: Response) => {
   return res.json(countriesByCurrencyCode);
 };
 
-const getCountryDetail = async (req: Request, res: Response) => {
-  try {
-    const countryName = req.params.countryName;
-    const countryDetail = await import(`../data/countries/${countryName}`);
-    if (countryDetail) {
-      return res.json(countryDetail.default);
-    }
+const getCountryByTopLevelDomain = (req: Request, res: Response) => {
+  let topLevelDomain = req.params.topLevelDomain;
 
-    return res.status(404).json({ error: "Country not found" });
-  } catch (error) {
-    console.error("Error fetching country detail:", error);
-    return res.status(500).json({ error: "Internal server error" });
+  if (!topLevelDomain.startsWith(".")) {
+    topLevelDomain = "." + topLevelDomain;
   }
+
+  if (topLevelDomain.length < 2 || topLevelDomain.length > 4) {
+    return res.status(400).json({ message: "Invalid topLevelDomain length" });
+  }
+
+  const countryByTopLevelDomain = countries.find(
+    (country: Country) =>
+      country.topLevelDomain.toLowerCase() === topLevelDomain.toLowerCase()
+  );
+
+  if (!countryByTopLevelDomain) {
+    return res.status(404).json({ message: "Country not found" });
+  }
+
+  return res.json(countryByTopLevelDomain);
+};
+
+const getCountriesByDialingCode = (req: Request, res: Response) => {
+  let dialingCode = req.params.dialingCode;
+
+  if (!dialingCode.startsWith("+")) {
+    dialingCode = "+" + dialingCode;
+  }
+
+  const countriesByDialingCode = countries.filter(
+    (country: Country) => country.dialingCode == dialingCode
+  );
+
+  return res.json(countriesByDialingCode);
 };
 
 export default {
@@ -103,8 +125,8 @@ export default {
   getCountriesBySovereignty,
   getCountriesByContinent,
   getCountryByISONumericCode,
-  getCountriesByISOCode,
+  getCountryByISOCode,
   getCountriesByCurrencyCode,
-  getCountryDetail,
-  getCountryByCountryCode,
+  getCountryByTopLevelDomain,
+  getCountriesByDialingCode,
 };

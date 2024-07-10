@@ -11,18 +11,21 @@ router.get(
   countryController.getCountriesBySovereignty
 );
 router.get(
-  "/countryCode/:countryCode",
-  countryController.getCountryByCountryCode
-);
-router.get(
   "/isocode/numeric/:ISONumericCode",
   countryController.getCountryByISONumericCode
 );
-router.get("/isocode/:ISOCode", countryController.getCountriesByISOCode);
+router.get("/isocode/:ISOCode", countryController.getCountryByISOCode);
 router.get(
   "/currency/:currencyCode",
   countryController.getCountriesByCurrencyCode
 );
-router.get("/country/:countryName", countryController.getCountryDetail);
+router.get(
+  "/topLevelDomain/:topLevelDomain",
+  countryController.getCountryByTopLevelDomain
+);
+router.get(
+  "/dialingCode/:dialingCode",
+  countryController.getCountriesByDialingCode
+);
 
 export default router;

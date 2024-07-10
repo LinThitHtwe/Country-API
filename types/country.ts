@@ -1,7 +1,7 @@
 export interface Country {
   name: string;
   officialName: string;
-  countryCode: string;
+  dialingCode: string;
   ISOCodes: {
     alpha2Code: string;
     alpha3Code: string;

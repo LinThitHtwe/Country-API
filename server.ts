@@ -1,20 +1,14 @@
-// console.log("Hello");
-
-// const test = async (name: string): Promise<void> => {
-//   const data = await import(`./data/asia/${name}`);
-//   console.log("myanmar---", data);
-// };
-
-// test("myanmar");
-
-import express, { Application } from "express";
-
+import express, { Application, Request, Response, NextFunction } from "express";
 import http from "http";
 import router from "./routes/route";
+import rateLimiterMiddleware from "./middleware/rateLimiterMiddleware";
 
 const port = process.env.PORT || 3000;
 const app: Application = express();
+
+app.use(rateLimiterMiddleware);
 app.use("/", router);
+
 const server = http.createServer(app);
 
 server.listen(port, () => {

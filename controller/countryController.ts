@@ -1,9 +1,9 @@
-import { json, Request, Response } from "express";
+import { Request, Response } from "express";
 import { Country } from "../types/country";
-import { sovereigntyMapping } from "../constants/constant";
+import { availableContinents, sovereigntyMapping } from "../constants/constant";
 const countries = require("../data/countries.json");
 
-const getAllCountries = (req: Request, res: Response) => {
+const getAllCountries = (_req: Request, res: Response) => {
   res.json(countries);
 };
 
@@ -21,6 +21,14 @@ const getCountriesByContinent = (req: Request, res: Response) => {
     }
     return false;
   });
+
+  if (countriesByContinent.length == 0) {
+    const apiContinentGuide = {
+      message: "Continent Should be one of these",
+      availableContinents,
+    };
+    res.json(apiContinentGuide);
+  }
 
   res.json(countriesByContinent);
 };
@@ -44,7 +52,6 @@ const getCountriesBySovereignty = (req: Request, res: Response) => {
 
 const getCountryByISONumericCode = (req: Request, res: Response) => {
   const ISONumericCode = req.params.ISONumericCode;
-
   if (ISONumericCode.length != 3) {
     res.status(400).json({ message: "Invalid ISOCode Numeric length" });
   }
@@ -64,8 +71,8 @@ const getCountryByISOCode = (req: Request, res: Response) => {
 
   const responseCountry = countries.find(
     (country: Country) =>
-      country.ISOCodes.alpha2Code.toUpperCase() === ISOCode ||
-      country.ISOCodes.alpha3Code.toUpperCase() === ISOCode
+      country.ISOCodes.alpha2Code?.toUpperCase() === ISOCode ||
+      country.ISOCodes.alpha3Code?.toUpperCase() === ISOCode
   );
 
   if (!responseCountry) {
@@ -90,7 +97,7 @@ const getCountryByTopLevelDomain = (req: Request, res: Response) => {
     topLevelDomain = "." + topLevelDomain;
   }
 
-  if (topLevelDomain.length < 2 || topLevelDomain.length > 4) {
+  if (topLevelDomain.length != 3) {
     return res.status(400).json({ message: "Invalid topLevelDomain length" });
   }
 

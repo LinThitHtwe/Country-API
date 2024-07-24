@@ -3,3 +3,18 @@ export const sovereigntyMapping: { [key: string]: string } = {
   un: "unmember",
   uk: "unitedkingdom",
 };
+
+export const availableContinents = [
+  "Africa",
+  "Antertica",
+  "Asia",
+  "Austria",
+  "Europe",
+  "North America",
+  "NorthAmerica",
+  "Oceania",
+  "South America",
+  "SouthAmerica",
+];
+
+export const availableSovereignties = [];

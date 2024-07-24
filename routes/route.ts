@@ -1,31 +1,9 @@
 const router = require("express").Router();
-import countryController from "../controller/countryController";
+import countryRoutes from "./countryRoute";
+import endPointGuide from "../controller/endPointGuideController";
 
-router.get("/all", countryController.getAllCountries);
-router.get(
-  "/continent/:continentName",
-  countryController.getCountriesByContinent
-);
-router.get(
-  "/sovereignty/:sovereignty",
-  countryController.getCountriesBySovereignty
-);
-router.get(
-  "/isocode/numeric/:ISONumericCode",
-  countryController.getCountryByISONumericCode
-);
-router.get("/isocode/:ISOCode", countryController.getCountryByISOCode);
-router.get(
-  "/currency/:currencyCode",
-  countryController.getCountriesByCurrencyCode
-);
-router.get(
-  "/topLevelDomain/:topLevelDomain",
-  countryController.getCountryByTopLevelDomain
-);
-router.get(
-  "/dialingCode/:dialingCode",
-  countryController.getCountriesByDialingCode
-);
+// router.get("/", endPointGuide.index);
+// router.get("/continent", endPointGuide.continent);
+router.use("/countries", countryRoutes);
 
 export default router;

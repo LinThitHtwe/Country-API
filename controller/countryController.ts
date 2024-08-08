@@ -1,6 +1,10 @@
 import { Request, Response } from "express";
 import { Country } from "../types/country";
-import { availableContinents, sovereigntyMapping } from "../constants/constant";
+import {
+  availableContinents,
+  availableSovereignties,
+  sovereigntyMapping,
+} from "../constants/constant";
 const countries = require("../data/countries.json");
 
 const getAllCountries = (_req: Request, res: Response) => {
@@ -24,7 +28,7 @@ const getCountriesByContinent = (req: Request, res: Response) => {
 
   if (countriesByContinent.length == 0) {
     const apiContinentGuide = {
-      message: "Continent Should be one of these",
+      message: `${req.params.continentName} isn't a valid continent. It should be one of these`,
       availableContinents,
     };
     res.json(apiContinentGuide);
@@ -47,6 +51,13 @@ const getCountriesBySovereignty = (req: Request, res: Response) => {
     return standardizedSovereignty === sovereigntyInput;
   });
 
+  if (countriesBySovereignty.length < 1) {
+    const apiSovereigntyGuide = {
+      message: `${req.params.sovereignty} isn't a valid sovereignty. It should be one of the following`,
+      availableSovereignties,
+    };
+    return res.status(400).json(apiSovereigntyGuide);
+  }
   return res.json(countriesBySovereignty);
 };
 

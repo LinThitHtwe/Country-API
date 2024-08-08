@@ -17,4 +17,23 @@ export const availableContinents = [
   "SouthAmerica",
 ];
 
-export const availableSovereignties = [];
+export const availableSovereignties = [
+  "Antarctic Treaty",
+  "Australia",
+  "British Crown",
+  "China",
+  "Denmark",
+  "Disputed",
+  "Finland",
+  "France",
+  "Netherlands",
+  "New Zealand",
+  "Norway",
+  "UK",
+  "UN",
+  "UN member",
+  "UN observer",
+  "United Kingdom",
+  "United States",
+  "US",
+];

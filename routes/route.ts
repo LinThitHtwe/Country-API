@@ -1,9 +1,8 @@
 const router = require("express").Router();
 import countryRoutes from "./countryRoute";
-import endPointGuide from "../controller/endPointGuideController";
+import endPointRoutes from "./endPointGuide";
 
-// router.get("/", endPointGuide.index);
-// router.get("/continent", endPointGuide.continent);
+router.use("/", endPointRoutes);
 router.use("/countries", countryRoutes);
 
 export default router;
